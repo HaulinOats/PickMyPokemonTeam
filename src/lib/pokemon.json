@@ -1,0 +1,8955 @@
+{
+  "1": {
+    "pokemonId": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bulbasaur",
+    "name": "Bulbasaur"
+  },
+  "2": {
+    "pokemonId": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ivysaur",
+    "name": "Ivysaur"
+  },
+  "3": {
+    "pokemonId": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venusaur",
+    "name": "Venusaur"
+  },
+  "4": {
+    "pokemonId": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charmander",
+    "name": "Charmander"
+  },
+  "5": {
+    "pokemonId": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charmeleon",
+    "name": "Charmeleon"
+  },
+  "6": {
+    "pokemonId": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charizard",
+    "name": "Charizard"
+  },
+  "7": {
+    "pokemonId": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "squirtle",
+    "name": "Squirtle"
+  },
+  "8": {
+    "pokemonId": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wartortle",
+    "name": "Wartortle"
+  },
+  "9": {
+    "pokemonId": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blastoise",
+    "name": "Blastoise"
+  },
+  "10": {
+    "pokemonId": 10,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "caterpie",
+    "name": "Caterpie"
+  },
+  "11": {
+    "pokemonId": 11,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "metapod",
+    "name": "Metapod"
+  },
+  "12": {
+    "pokemonId": 12,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "butterfree",
+    "name": "Butterfree"
+  },
+  "13": {
+    "pokemonId": 13,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "weedle",
+    "name": "Weedle"
+  },
+  "14": {
+    "pokemonId": 14,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kakuna",
+    "name": "Kakuna"
+  },
+  "15": {
+    "pokemonId": 15,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beedrill",
+    "name": "Beedrill"
+  },
+  "16": {
+    "pokemonId": 16,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pidgey",
+    "name": "Pidgey"
+  },
+  "17": {
+    "pokemonId": 17,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pidgeotto",
+    "name": "Pidgeotto"
+  },
+  "18": {
+    "pokemonId": 18,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pidgeot",
+    "name": "Pidgeot"
+  },
+  "19": {
+    "pokemonId": 19,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rattata",
+    "name": "Rattata"
+  },
+  "20": {
+    "pokemonId": 20,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raticate",
+    "name": "Raticate"
+  },
+  "21": {
+    "pokemonId": 21,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spearow",
+    "name": "Spearow"
+  },
+  "22": {
+    "pokemonId": 22,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fearow",
+    "name": "Fearow"
+  },
+  "23": {
+    "pokemonId": 23,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ekans",
+    "name": "Ekans"
+  },
+  "24": {
+    "pokemonId": 24,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arbok",
+    "name": "Arbok"
+  },
+  "25": {
+    "pokemonId": 25,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu",
+    "name": "Pikachu"
+  },
+  "26": {
+    "pokemonId": 26,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raichu",
+    "name": "Raichu"
+  },
+  "27": {
+    "pokemonId": 27,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandshrew",
+    "name": "Sandshrew"
+  },
+  "28": {
+    "pokemonId": 28,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandslash",
+    "name": "Sandslash"
+  },
+  "29": {
+    "pokemonId": 29,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidoran-f",
+    "name": "Nidoran♀"
+  },
+  "30": {
+    "pokemonId": 30,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidorina",
+    "name": "Nidorina"
+  },
+  "31": {
+    "pokemonId": 31,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidoqueen",
+    "name": "Nidoqueen"
+  },
+  "32": {
+    "pokemonId": 32,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidoran-m",
+    "name": "Nidoran♂"
+  },
+  "33": {
+    "pokemonId": 33,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidorino",
+    "name": "Nidorino"
+  },
+  "34": {
+    "pokemonId": 34,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nidoking",
+    "name": "Nidoking"
+  },
+  "35": {
+    "pokemonId": 35,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clefairy",
+    "name": "Clefairy"
+  },
+  "36": {
+    "pokemonId": 36,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clefable",
+    "name": "Clefable"
+  },
+  "37": {
+    "pokemonId": 37,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vulpix",
+    "name": "Vulpix"
+  },
+  "38": {
+    "pokemonId": 38,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ninetales",
+    "name": "Ninetales"
+  },
+  "39": {
+    "pokemonId": 39,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jigglypuff",
+    "name": "Jigglypuff"
+  },
+  "40": {
+    "pokemonId": 40,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wigglytuff",
+    "name": "Wigglytuff"
+  },
+  "41": {
+    "pokemonId": 41,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zubat",
+    "name": "Zubat"
+  },
+  "42": {
+    "pokemonId": 42,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golbat",
+    "name": "Golbat"
+  },
+  "43": {
+    "pokemonId": 43,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oddish",
+    "name": "Oddish"
+  },
+  "44": {
+    "pokemonId": 44,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gloom",
+    "name": "Gloom"
+  },
+  "45": {
+    "pokemonId": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vileplume",
+    "name": "Vileplume"
+  },
+  "46": {
+    "pokemonId": 46,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "paras",
+    "name": "Paras"
+  },
+  "47": {
+    "pokemonId": 47,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "parasect",
+    "name": "Parasect"
+  },
+  "48": {
+    "pokemonId": 48,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venonat",
+    "name": "Venonat"
+  },
+  "49": {
+    "pokemonId": 49,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venomoth",
+    "name": "Venomoth"
+  },
+  "50": {
+    "pokemonId": 50,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "diglett",
+    "name": "Diglett"
+  },
+  "51": {
+    "pokemonId": 51,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dugtrio",
+    "name": "Dugtrio"
+  },
+  "52": {
+    "pokemonId": 52,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowth",
+    "name": "Meowth"
+  },
+  "53": {
+    "pokemonId": 53,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "persian",
+    "name": "Persian"
+  },
+  "54": {
+    "pokemonId": 54,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "psyduck",
+    "name": "Psyduck"
+  },
+  "55": {
+    "pokemonId": 55,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golduck",
+    "name": "Golduck"
+  },
+  "56": {
+    "pokemonId": 56,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mankey",
+    "name": "Mankey"
+  },
+  "57": {
+    "pokemonId": 57,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "primeape",
+    "name": "Primeape"
+  },
+  "58": {
+    "pokemonId": 58,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "growlithe",
+    "name": "Growlithe"
+  },
+  "59": {
+    "pokemonId": 59,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arcanine",
+    "name": "Arcanine"
+  },
+  "60": {
+    "pokemonId": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "poliwag",
+    "name": "Poliwag"
+  },
+  "61": {
+    "pokemonId": 61,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "poliwhirl",
+    "name": "Poliwhirl"
+  },
+  "62": {
+    "pokemonId": 62,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "poliwrath",
+    "name": "Poliwrath"
+  },
+  "63": {
+    "pokemonId": 63,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "abra",
+    "name": "Abra"
+  },
+  "64": {
+    "pokemonId": 64,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kadabra",
+    "name": "Kadabra"
+  },
+  "65": {
+    "pokemonId": 65,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "alakazam",
+    "name": "Alakazam"
+  },
+  "66": {
+    "pokemonId": 66,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "machop",
+    "name": "Machop"
+  },
+  "67": {
+    "pokemonId": 67,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "machoke",
+    "name": "Machoke"
+  },
+  "68": {
+    "pokemonId": 68,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "machamp",
+    "name": "Machamp"
+  },
+  "69": {
+    "pokemonId": 69,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bellsprout",
+    "name": "Bellsprout"
+  },
+  "70": {
+    "pokemonId": 70,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "weepinbell",
+    "name": "Weepinbell"
+  },
+  "71": {
+    "pokemonId": 71,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "victreebel",
+    "name": "Victreebel"
+  },
+  "72": {
+    "pokemonId": 72,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tentacool",
+    "name": "Tentacool"
+  },
+  "73": {
+    "pokemonId": 73,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tentacruel",
+    "name": "Tentacruel"
+  },
+  "74": {
+    "pokemonId": 74,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "geodude",
+    "name": "Geodude"
+  },
+  "75": {
+    "pokemonId": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "graveler",
+    "name": "Graveler"
+  },
+  "76": {
+    "pokemonId": 76,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golem",
+    "name": "Golem"
+  },
+  "77": {
+    "pokemonId": 77,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ponyta",
+    "name": "Ponyta"
+  },
+  "78": {
+    "pokemonId": 78,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rapidash",
+    "name": "Rapidash"
+  },
+  "79": {
+    "pokemonId": 79,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowpoke",
+    "name": "Slowpoke"
+  },
+  "80": {
+    "pokemonId": 80,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowbro",
+    "name": "Slowbro"
+  },
+  "81": {
+    "pokemonId": 81,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magnemite",
+    "name": "Magnemite"
+  },
+  "82": {
+    "pokemonId": 82,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magneton",
+    "name": "Magneton"
+  },
+  "83": {
+    "pokemonId": 83,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "farfetchd",
+    "name": "Farfetch’d"
+  },
+  "84": {
+    "pokemonId": 84,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "doduo",
+    "name": "Doduo"
+  },
+  "85": {
+    "pokemonId": 85,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dodrio",
+    "name": "Dodrio"
+  },
+  "86": {
+    "pokemonId": 86,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seel",
+    "name": "Seel"
+  },
+  "87": {
+    "pokemonId": 87,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dewgong",
+    "name": "Dewgong"
+  },
+  "88": {
+    "pokemonId": 88,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grimer",
+    "name": "Grimer"
+  },
+  "89": {
+    "pokemonId": 89,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "muk",
+    "name": "Muk"
+  },
+  "90": {
+    "pokemonId": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shellder",
+    "name": "Shellder"
+  },
+  "91": {
+    "pokemonId": 91,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cloyster",
+    "name": "Cloyster"
+  },
+  "92": {
+    "pokemonId": 92,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gastly",
+    "name": "Gastly"
+  },
+  "93": {
+    "pokemonId": 93,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "haunter",
+    "name": "Haunter"
+  },
+  "94": {
+    "pokemonId": 94,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gengar",
+    "name": "Gengar"
+  },
+  "95": {
+    "pokemonId": 95,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "onix",
+    "name": "Onix"
+  },
+  "96": {
+    "pokemonId": 96,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drowzee",
+    "name": "Drowzee"
+  },
+  "97": {
+    "pokemonId": 97,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hypno",
+    "name": "Hypno"
+  },
+  "98": {
+    "pokemonId": 98,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "krabby",
+    "name": "Krabby"
+  },
+  "99": {
+    "pokemonId": 99,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kingler",
+    "name": "Kingler"
+  },
+  "100": {
+    "pokemonId": 100,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "voltorb",
+    "name": "Voltorb"
+  },
+  "101": {
+    "pokemonId": 101,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "electrode",
+    "name": "Electrode"
+  },
+  "102": {
+    "pokemonId": 102,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "exeggcute",
+    "name": "Exeggcute"
+  },
+  "103": {
+    "pokemonId": 103,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "exeggutor",
+    "name": "Exeggutor"
+  },
+  "104": {
+    "pokemonId": 104,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cubone",
+    "name": "Cubone"
+  },
+  "105": {
+    "pokemonId": 105,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marowak",
+    "name": "Marowak"
+  },
+  "106": {
+    "pokemonId": 106,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hitmonlee",
+    "name": "Hitmonlee"
+  },
+  "107": {
+    "pokemonId": 107,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hitmonchan",
+    "name": "Hitmonchan"
+  },
+  "108": {
+    "pokemonId": 108,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lickitung",
+    "name": "Lickitung"
+  },
+  "109": {
+    "pokemonId": 109,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koffing",
+    "name": "Koffing"
+  },
+  "110": {
+    "pokemonId": 110,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "weezing",
+    "name": "Weezing"
+  },
+  "111": {
+    "pokemonId": 111,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rhyhorn",
+    "name": "Rhyhorn"
+  },
+  "112": {
+    "pokemonId": 112,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rhydon",
+    "name": "Rhydon"
+  },
+  "113": {
+    "pokemonId": 113,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chansey",
+    "name": "Chansey"
+  },
+  "114": {
+    "pokemonId": 114,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tangela",
+    "name": "Tangela"
+  },
+  "115": {
+    "pokemonId": 115,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kangaskhan",
+    "name": "Kangaskhan"
+  },
+  "116": {
+    "pokemonId": 116,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "horsea",
+    "name": "Horsea"
+  },
+  "117": {
+    "pokemonId": 117,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seadra",
+    "name": "Seadra"
+  },
+  "118": {
+    "pokemonId": 118,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "goldeen",
+    "name": "Goldeen"
+  },
+  "119": {
+    "pokemonId": 119,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seaking",
+    "name": "Seaking"
+  },
+  "120": {
+    "pokemonId": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "staryu",
+    "name": "Staryu"
+  },
+  "121": {
+    "pokemonId": 121,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "starmie",
+    "name": "Starmie"
+  },
+  "122": {
+    "pokemonId": 122,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mr-mime",
+    "name": "Mr. Mime"
+  },
+  "123": {
+    "pokemonId": 123,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scyther",
+    "name": "Scyther"
+  },
+  "124": {
+    "pokemonId": 124,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jynx",
+    "name": "Jynx"
+  },
+  "125": {
+    "pokemonId": 125,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "electabuzz",
+    "name": "Electabuzz"
+  },
+  "126": {
+    "pokemonId": 126,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magmar",
+    "name": "Magmar"
+  },
+  "127": {
+    "pokemonId": 127,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pinsir",
+    "name": "Pinsir"
+  },
+  "128": {
+    "pokemonId": 128,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tauros",
+    "name": "Tauros"
+  },
+  "129": {
+    "pokemonId": 129,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magikarp",
+    "name": "Magikarp"
+  },
+  "130": {
+    "pokemonId": 130,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gyarados",
+    "name": "Gyarados"
+  },
+  "131": {
+    "pokemonId": 131,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lapras",
+    "name": "Lapras"
+  },
+  "132": {
+    "pokemonId": 132,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ditto",
+    "name": "Ditto"
+  },
+  "133": {
+    "pokemonId": 133,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eevee",
+    "name": "Eevee"
+  },
+  "134": {
+    "pokemonId": 134,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vaporeon",
+    "name": "Vaporeon"
+  },
+  "135": {
+    "pokemonId": 135,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jolteon",
+    "name": "Jolteon"
+  },
+  "136": {
+    "pokemonId": 136,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flareon",
+    "name": "Flareon"
+  },
+  "137": {
+    "pokemonId": 137,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "porygon",
+    "name": "Porygon"
+  },
+  "138": {
+    "pokemonId": 138,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "omanyte",
+    "name": "Omanyte"
+  },
+  "139": {
+    "pokemonId": 139,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "omastar",
+    "name": "Omastar"
+  },
+  "140": {
+    "pokemonId": 140,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kabuto",
+    "name": "Kabuto"
+  },
+  "141": {
+    "pokemonId": 141,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kabutops",
+    "name": "Kabutops"
+  },
+  "142": {
+    "pokemonId": 142,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aerodactyl",
+    "name": "Aerodactyl"
+  },
+  "143": {
+    "pokemonId": 143,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snorlax",
+    "name": "Snorlax"
+  },
+  "144": {
+    "pokemonId": 144,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "articuno",
+    "name": "Articuno"
+  },
+  "145": {
+    "pokemonId": 145,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "zapdos",
+    "name": "Zapdos"
+  },
+  "146": {
+    "pokemonId": 146,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "moltres",
+    "name": "Moltres"
+  },
+  "147": {
+    "pokemonId": 147,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dratini",
+    "name": "Dratini"
+  },
+  "148": {
+    "pokemonId": 148,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dragonair",
+    "name": "Dragonair"
+  },
+  "149": {
+    "pokemonId": 149,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dragonite",
+    "name": "Dragonite"
+  },
+  "150": {
+    "pokemonId": 150,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "mewtwo",
+    "name": "Mewtwo"
+  },
+  "151": {
+    "pokemonId": 151,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "mew",
+    "name": "Mew"
+  },
+  "152": {
+    "pokemonId": 152,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chikorita",
+    "name": "Chikorita"
+  },
+  "153": {
+    "pokemonId": 153,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bayleef",
+    "name": "Bayleef"
+  },
+  "154": {
+    "pokemonId": 154,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meganium",
+    "name": "Meganium"
+  },
+  "155": {
+    "pokemonId": 155,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cyndaquil",
+    "name": "Cyndaquil"
+  },
+  "156": {
+    "pokemonId": 156,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quilava",
+    "name": "Quilava"
+  },
+  "157": {
+    "pokemonId": 157,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "typhlosion",
+    "name": "Typhlosion"
+  },
+  "158": {
+    "pokemonId": 158,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "totodile",
+    "name": "Totodile"
+  },
+  "159": {
+    "pokemonId": 159,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "croconaw",
+    "name": "Croconaw"
+  },
+  "160": {
+    "pokemonId": 160,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "feraligatr",
+    "name": "Feraligatr"
+  },
+  "161": {
+    "pokemonId": 161,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sentret",
+    "name": "Sentret"
+  },
+  "162": {
+    "pokemonId": 162,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "furret",
+    "name": "Furret"
+  },
+  "163": {
+    "pokemonId": 163,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hoothoot",
+    "name": "Hoothoot"
+  },
+  "164": {
+    "pokemonId": 164,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "noctowl",
+    "name": "Noctowl"
+  },
+  "165": {
+    "pokemonId": 165,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ledyba",
+    "name": "Ledyba"
+  },
+  "166": {
+    "pokemonId": 166,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ledian",
+    "name": "Ledian"
+  },
+  "167": {
+    "pokemonId": 167,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spinarak",
+    "name": "Spinarak"
+  },
+  "168": {
+    "pokemonId": 168,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ariados",
+    "name": "Ariados"
+  },
+  "169": {
+    "pokemonId": 169,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crobat",
+    "name": "Crobat"
+  },
+  "170": {
+    "pokemonId": 170,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chinchou",
+    "name": "Chinchou"
+  },
+  "171": {
+    "pokemonId": 171,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lanturn",
+    "name": "Lanturn"
+  },
+  "172": {
+    "pokemonId": 172,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pichu",
+    "name": "Pichu"
+  },
+  "173": {
+    "pokemonId": 173,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cleffa",
+    "name": "Cleffa"
+  },
+  "174": {
+    "pokemonId": 174,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "igglybuff",
+    "name": "Igglybuff"
+  },
+  "175": {
+    "pokemonId": 175,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "togepi",
+    "name": "Togepi"
+  },
+  "176": {
+    "pokemonId": 176,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "togetic",
+    "name": "Togetic"
+  },
+  "177": {
+    "pokemonId": 177,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "natu",
+    "name": "Natu"
+  },
+  "178": {
+    "pokemonId": 178,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "xatu",
+    "name": "Xatu"
+  },
+  "179": {
+    "pokemonId": 179,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mareep",
+    "name": "Mareep"
+  },
+  "180": {
+    "pokemonId": 180,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flaaffy",
+    "name": "Flaaffy"
+  },
+  "181": {
+    "pokemonId": 181,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ampharos",
+    "name": "Ampharos"
+  },
+  "182": {
+    "pokemonId": 182,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bellossom",
+    "name": "Bellossom"
+  },
+  "183": {
+    "pokemonId": 183,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marill",
+    "name": "Marill"
+  },
+  "184": {
+    "pokemonId": 184,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "azumarill",
+    "name": "Azumarill"
+  },
+  "185": {
+    "pokemonId": 185,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sudowoodo",
+    "name": "Sudowoodo"
+  },
+  "186": {
+    "pokemonId": 186,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "politoed",
+    "name": "Politoed"
+  },
+  "187": {
+    "pokemonId": 187,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hoppip",
+    "name": "Hoppip"
+  },
+  "188": {
+    "pokemonId": 188,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skiploom",
+    "name": "Skiploom"
+  },
+  "189": {
+    "pokemonId": 189,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jumpluff",
+    "name": "Jumpluff"
+  },
+  "190": {
+    "pokemonId": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aipom",
+    "name": "Aipom"
+  },
+  "191": {
+    "pokemonId": 191,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sunkern",
+    "name": "Sunkern"
+  },
+  "192": {
+    "pokemonId": 192,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sunflora",
+    "name": "Sunflora"
+  },
+  "193": {
+    "pokemonId": 193,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yanma",
+    "name": "Yanma"
+  },
+  "194": {
+    "pokemonId": 194,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wooper",
+    "name": "Wooper"
+  },
+  "195": {
+    "pokemonId": 195,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quagsire",
+    "name": "Quagsire"
+  },
+  "196": {
+    "pokemonId": 196,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "espeon",
+    "name": "Espeon"
+  },
+  "197": {
+    "pokemonId": 197,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "umbreon",
+    "name": "Umbreon"
+  },
+  "198": {
+    "pokemonId": 198,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "murkrow",
+    "name": "Murkrow"
+  },
+  "199": {
+    "pokemonId": 199,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowking",
+    "name": "Slowking"
+  },
+  "200": {
+    "pokemonId": 200,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "misdreavus",
+    "name": "Misdreavus"
+  },
+  "201": {
+    "pokemonId": 201,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "unown",
+    "name": "Unown"
+  },
+  "202": {
+    "pokemonId": 202,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wobbuffet",
+    "name": "Wobbuffet"
+  },
+  "203": {
+    "pokemonId": 203,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "girafarig",
+    "name": "Girafarig"
+  },
+  "204": {
+    "pokemonId": 204,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pineco",
+    "name": "Pineco"
+  },
+  "205": {
+    "pokemonId": 205,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "forretress",
+    "name": "Forretress"
+  },
+  "206": {
+    "pokemonId": 206,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dunsparce",
+    "name": "Dunsparce"
+  },
+  "207": {
+    "pokemonId": 207,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gligar",
+    "name": "Gligar"
+  },
+  "208": {
+    "pokemonId": 208,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "steelix",
+    "name": "Steelix"
+  },
+  "209": {
+    "pokemonId": 209,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snubbull",
+    "name": "Snubbull"
+  },
+  "210": {
+    "pokemonId": 210,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "granbull",
+    "name": "Granbull"
+  },
+  "211": {
+    "pokemonId": 211,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "qwilfish",
+    "name": "Qwilfish"
+  },
+  "212": {
+    "pokemonId": 212,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scizor",
+    "name": "Scizor"
+  },
+  "213": {
+    "pokemonId": 213,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shuckle",
+    "name": "Shuckle"
+  },
+  "214": {
+    "pokemonId": 214,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "heracross",
+    "name": "Heracross"
+  },
+  "215": {
+    "pokemonId": 215,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sneasel",
+    "name": "Sneasel"
+  },
+  "216": {
+    "pokemonId": 216,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "teddiursa",
+    "name": "Teddiursa"
+  },
+  "217": {
+    "pokemonId": 217,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ursaring",
+    "name": "Ursaring"
+  },
+  "218": {
+    "pokemonId": 218,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slugma",
+    "name": "Slugma"
+  },
+  "219": {
+    "pokemonId": 219,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magcargo",
+    "name": "Magcargo"
+  },
+  "220": {
+    "pokemonId": 220,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swinub",
+    "name": "Swinub"
+  },
+  "221": {
+    "pokemonId": 221,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "piloswine",
+    "name": "Piloswine"
+  },
+  "222": {
+    "pokemonId": 222,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corsola",
+    "name": "Corsola"
+  },
+  "223": {
+    "pokemonId": 223,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "remoraid",
+    "name": "Remoraid"
+  },
+  "224": {
+    "pokemonId": 224,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "octillery",
+    "name": "Octillery"
+  },
+  "225": {
+    "pokemonId": 225,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "delibird",
+    "name": "Delibird"
+  },
+  "226": {
+    "pokemonId": 226,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mantine",
+    "name": "Mantine"
+  },
+  "227": {
+    "pokemonId": 227,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skarmory",
+    "name": "Skarmory"
+  },
+  "228": {
+    "pokemonId": 228,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "houndour",
+    "name": "Houndour"
+  },
+  "229": {
+    "pokemonId": 229,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "houndoom",
+    "name": "Houndoom"
+  },
+  "230": {
+    "pokemonId": 230,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kingdra",
+    "name": "Kingdra"
+  },
+  "231": {
+    "pokemonId": 231,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "phanpy",
+    "name": "Phanpy"
+  },
+  "232": {
+    "pokemonId": 232,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "donphan",
+    "name": "Donphan"
+  },
+  "233": {
+    "pokemonId": 233,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "porygon2",
+    "name": "Porygon2"
+  },
+  "234": {
+    "pokemonId": 234,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stantler",
+    "name": "Stantler"
+  },
+  "235": {
+    "pokemonId": 235,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "smeargle",
+    "name": "Smeargle"
+  },
+  "236": {
+    "pokemonId": 236,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tyrogue",
+    "name": "Tyrogue"
+  },
+  "237": {
+    "pokemonId": 237,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hitmontop",
+    "name": "Hitmontop"
+  },
+  "238": {
+    "pokemonId": 238,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "smoochum",
+    "name": "Smoochum"
+  },
+  "239": {
+    "pokemonId": 239,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "elekid",
+    "name": "Elekid"
+  },
+  "240": {
+    "pokemonId": 240,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magby",
+    "name": "Magby"
+  },
+  "241": {
+    "pokemonId": 241,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miltank",
+    "name": "Miltank"
+  },
+  "242": {
+    "pokemonId": 242,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blissey",
+    "name": "Blissey"
+  },
+  "243": {
+    "pokemonId": 243,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "raikou",
+    "name": "Raikou"
+  },
+  "244": {
+    "pokemonId": 244,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "entei",
+    "name": "Entei"
+  },
+  "245": {
+    "pokemonId": 245,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "suicune",
+    "name": "Suicune"
+  },
+  "246": {
+    "pokemonId": 246,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "larvitar",
+    "name": "Larvitar"
+  },
+  "247": {
+    "pokemonId": 247,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pupitar",
+    "name": "Pupitar"
+  },
+  "248": {
+    "pokemonId": 248,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tyranitar",
+    "name": "Tyranitar"
+  },
+  "249": {
+    "pokemonId": 249,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "lugia",
+    "name": "Lugia"
+  },
+  "250": {
+    "pokemonId": 250,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "ho-oh",
+    "name": "Ho-Oh"
+  },
+  "251": {
+    "pokemonId": 251,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "celebi",
+    "name": "Celebi"
+  },
+  "252": {
+    "pokemonId": 252,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "treecko",
+    "name": "Treecko"
+  },
+  "253": {
+    "pokemonId": 253,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grovyle",
+    "name": "Grovyle"
+  },
+  "254": {
+    "pokemonId": 254,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sceptile",
+    "name": "Sceptile"
+  },
+  "255": {
+    "pokemonId": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "torchic",
+    "name": "Torchic"
+  },
+  "256": {
+    "pokemonId": 256,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "combusken",
+    "name": "Combusken"
+  },
+  "257": {
+    "pokemonId": 257,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blaziken",
+    "name": "Blaziken"
+  },
+  "258": {
+    "pokemonId": 258,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mudkip",
+    "name": "Mudkip"
+  },
+  "259": {
+    "pokemonId": 259,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marshtomp",
+    "name": "Marshtomp"
+  },
+  "260": {
+    "pokemonId": 260,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swampert",
+    "name": "Swampert"
+  },
+  "261": {
+    "pokemonId": 261,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "poochyena",
+    "name": "Poochyena"
+  },
+  "262": {
+    "pokemonId": 262,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mightyena",
+    "name": "Mightyena"
+  },
+  "263": {
+    "pokemonId": 263,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zigzagoon",
+    "name": "Zigzagoon"
+  },
+  "264": {
+    "pokemonId": 264,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "linoone",
+    "name": "Linoone"
+  },
+  "265": {
+    "pokemonId": 265,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wurmple",
+    "name": "Wurmple"
+  },
+  "266": {
+    "pokemonId": 266,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "silcoon",
+    "name": "Silcoon"
+  },
+  "267": {
+    "pokemonId": 267,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beautifly",
+    "name": "Beautifly"
+  },
+  "268": {
+    "pokemonId": 268,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cascoon",
+    "name": "Cascoon"
+  },
+  "269": {
+    "pokemonId": 269,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dustox",
+    "name": "Dustox"
+  },
+  "270": {
+    "pokemonId": 270,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lotad",
+    "name": "Lotad"
+  },
+  "271": {
+    "pokemonId": 271,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lombre",
+    "name": "Lombre"
+  },
+  "272": {
+    "pokemonId": 272,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ludicolo",
+    "name": "Ludicolo"
+  },
+  "273": {
+    "pokemonId": 273,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seedot",
+    "name": "Seedot"
+  },
+  "274": {
+    "pokemonId": 274,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nuzleaf",
+    "name": "Nuzleaf"
+  },
+  "275": {
+    "pokemonId": 275,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shiftry",
+    "name": "Shiftry"
+  },
+  "276": {
+    "pokemonId": 276,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "taillow",
+    "name": "Taillow"
+  },
+  "277": {
+    "pokemonId": 277,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swellow",
+    "name": "Swellow"
+  },
+  "278": {
+    "pokemonId": 278,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wingull",
+    "name": "Wingull"
+  },
+  "279": {
+    "pokemonId": 279,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pelipper",
+    "name": "Pelipper"
+  },
+  "280": {
+    "pokemonId": 280,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ralts",
+    "name": "Ralts"
+  },
+  "281": {
+    "pokemonId": 281,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kirlia",
+    "name": "Kirlia"
+  },
+  "282": {
+    "pokemonId": 282,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gardevoir",
+    "name": "Gardevoir"
+  },
+  "283": {
+    "pokemonId": 283,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "surskit",
+    "name": "Surskit"
+  },
+  "284": {
+    "pokemonId": 284,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "masquerain",
+    "name": "Masquerain"
+  },
+  "285": {
+    "pokemonId": 285,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shroomish",
+    "name": "Shroomish"
+  },
+  "286": {
+    "pokemonId": 286,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "breloom",
+    "name": "Breloom"
+  },
+  "287": {
+    "pokemonId": 287,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slakoth",
+    "name": "Slakoth"
+  },
+  "288": {
+    "pokemonId": 288,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vigoroth",
+    "name": "Vigoroth"
+  },
+  "289": {
+    "pokemonId": 289,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slaking",
+    "name": "Slaking"
+  },
+  "290": {
+    "pokemonId": 290,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nincada",
+    "name": "Nincada"
+  },
+  "291": {
+    "pokemonId": 291,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ninjask",
+    "name": "Ninjask"
+  },
+  "292": {
+    "pokemonId": 292,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shedinja",
+    "name": "Shedinja"
+  },
+  "293": {
+    "pokemonId": 293,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "whismur",
+    "name": "Whismur"
+  },
+  "294": {
+    "pokemonId": 294,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "loudred",
+    "name": "Loudred"
+  },
+  "295": {
+    "pokemonId": 295,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "exploud",
+    "name": "Exploud"
+  },
+  "296": {
+    "pokemonId": 296,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "makuhita",
+    "name": "Makuhita"
+  },
+  "297": {
+    "pokemonId": 297,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hariyama",
+    "name": "Hariyama"
+  },
+  "298": {
+    "pokemonId": 298,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "azurill",
+    "name": "Azurill"
+  },
+  "299": {
+    "pokemonId": 299,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nosepass",
+    "name": "Nosepass"
+  },
+  "300": {
+    "pokemonId": 300,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skitty",
+    "name": "Skitty"
+  },
+  "301": {
+    "pokemonId": 301,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "delcatty",
+    "name": "Delcatty"
+  },
+  "302": {
+    "pokemonId": 302,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sableye",
+    "name": "Sableye"
+  },
+  "303": {
+    "pokemonId": 303,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mawile",
+    "name": "Mawile"
+  },
+  "304": {
+    "pokemonId": 304,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aron",
+    "name": "Aron"
+  },
+  "305": {
+    "pokemonId": 305,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lairon",
+    "name": "Lairon"
+  },
+  "306": {
+    "pokemonId": 306,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aggron",
+    "name": "Aggron"
+  },
+  "307": {
+    "pokemonId": 307,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meditite",
+    "name": "Meditite"
+  },
+  "308": {
+    "pokemonId": 308,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "medicham",
+    "name": "Medicham"
+  },
+  "309": {
+    "pokemonId": 309,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "electrike",
+    "name": "Electrike"
+  },
+  "310": {
+    "pokemonId": 310,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "manectric",
+    "name": "Manectric"
+  },
+  "311": {
+    "pokemonId": 311,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "plusle",
+    "name": "Plusle"
+  },
+  "312": {
+    "pokemonId": 312,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minun",
+    "name": "Minun"
+  },
+  "313": {
+    "pokemonId": 313,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "volbeat",
+    "name": "Volbeat"
+  },
+  "314": {
+    "pokemonId": 314,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "illumise",
+    "name": "Illumise"
+  },
+  "315": {
+    "pokemonId": 315,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "roselia",
+    "name": "Roselia"
+  },
+  "316": {
+    "pokemonId": 316,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gulpin",
+    "name": "Gulpin"
+  },
+  "317": {
+    "pokemonId": 317,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swalot",
+    "name": "Swalot"
+  },
+  "318": {
+    "pokemonId": 318,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "carvanha",
+    "name": "Carvanha"
+  },
+  "319": {
+    "pokemonId": 319,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sharpedo",
+    "name": "Sharpedo"
+  },
+  "320": {
+    "pokemonId": 320,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wailmer",
+    "name": "Wailmer"
+  },
+  "321": {
+    "pokemonId": 321,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wailord",
+    "name": "Wailord"
+  },
+  "322": {
+    "pokemonId": 322,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "numel",
+    "name": "Numel"
+  },
+  "323": {
+    "pokemonId": 323,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "camerupt",
+    "name": "Camerupt"
+  },
+  "324": {
+    "pokemonId": 324,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "torkoal",
+    "name": "Torkoal"
+  },
+  "325": {
+    "pokemonId": 325,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spoink",
+    "name": "Spoink"
+  },
+  "326": {
+    "pokemonId": 326,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grumpig",
+    "name": "Grumpig"
+  },
+  "327": {
+    "pokemonId": 327,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spinda",
+    "name": "Spinda"
+  },
+  "328": {
+    "pokemonId": 328,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "trapinch",
+    "name": "Trapinch"
+  },
+  "329": {
+    "pokemonId": 329,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vibrava",
+    "name": "Vibrava"
+  },
+  "330": {
+    "pokemonId": 330,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flygon",
+    "name": "Flygon"
+  },
+  "331": {
+    "pokemonId": 331,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cacnea",
+    "name": "Cacnea"
+  },
+  "332": {
+    "pokemonId": 332,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cacturne",
+    "name": "Cacturne"
+  },
+  "333": {
+    "pokemonId": 333,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swablu",
+    "name": "Swablu"
+  },
+  "334": {
+    "pokemonId": 334,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "altaria",
+    "name": "Altaria"
+  },
+  "335": {
+    "pokemonId": 335,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zangoose",
+    "name": "Zangoose"
+  },
+  "336": {
+    "pokemonId": 336,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seviper",
+    "name": "Seviper"
+  },
+  "337": {
+    "pokemonId": 337,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lunatone",
+    "name": "Lunatone"
+  },
+  "338": {
+    "pokemonId": 338,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "solrock",
+    "name": "Solrock"
+  },
+  "339": {
+    "pokemonId": 339,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "barboach",
+    "name": "Barboach"
+  },
+  "340": {
+    "pokemonId": 340,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "whiscash",
+    "name": "Whiscash"
+  },
+  "341": {
+    "pokemonId": 341,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corphish",
+    "name": "Corphish"
+  },
+  "342": {
+    "pokemonId": 342,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crawdaunt",
+    "name": "Crawdaunt"
+  },
+  "343": {
+    "pokemonId": 343,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "baltoy",
+    "name": "Baltoy"
+  },
+  "344": {
+    "pokemonId": 344,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "claydol",
+    "name": "Claydol"
+  },
+  "345": {
+    "pokemonId": 345,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lileep",
+    "name": "Lileep"
+  },
+  "346": {
+    "pokemonId": 346,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cradily",
+    "name": "Cradily"
+  },
+  "347": {
+    "pokemonId": 347,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "anorith",
+    "name": "Anorith"
+  },
+  "348": {
+    "pokemonId": 348,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "armaldo",
+    "name": "Armaldo"
+  },
+  "349": {
+    "pokemonId": 349,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "feebas",
+    "name": "Feebas"
+  },
+  "350": {
+    "pokemonId": 350,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "milotic",
+    "name": "Milotic"
+  },
+  "351": {
+    "pokemonId": 351,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "castform",
+    "name": "Castform"
+  },
+  "352": {
+    "pokemonId": 352,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kecleon",
+    "name": "Kecleon"
+  },
+  "353": {
+    "pokemonId": 353,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shuppet",
+    "name": "Shuppet"
+  },
+  "354": {
+    "pokemonId": 354,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "banette",
+    "name": "Banette"
+  },
+  "355": {
+    "pokemonId": 355,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "duskull",
+    "name": "Duskull"
+  },
+  "356": {
+    "pokemonId": 356,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dusclops",
+    "name": "Dusclops"
+  },
+  "357": {
+    "pokemonId": 357,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tropius",
+    "name": "Tropius"
+  },
+  "358": {
+    "pokemonId": 358,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chimecho",
+    "name": "Chimecho"
+  },
+  "359": {
+    "pokemonId": 359,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "absol",
+    "name": "Absol"
+  },
+  "360": {
+    "pokemonId": 360,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wynaut",
+    "name": "Wynaut"
+  },
+  "361": {
+    "pokemonId": 361,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snorunt",
+    "name": "Snorunt"
+  },
+  "362": {
+    "pokemonId": 362,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glalie",
+    "name": "Glalie"
+  },
+  "363": {
+    "pokemonId": 363,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spheal",
+    "name": "Spheal"
+  },
+  "364": {
+    "pokemonId": 364,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sealeo",
+    "name": "Sealeo"
+  },
+  "365": {
+    "pokemonId": 365,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "walrein",
+    "name": "Walrein"
+  },
+  "366": {
+    "pokemonId": 366,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clamperl",
+    "name": "Clamperl"
+  },
+  "367": {
+    "pokemonId": 367,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "huntail",
+    "name": "Huntail"
+  },
+  "368": {
+    "pokemonId": 368,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gorebyss",
+    "name": "Gorebyss"
+  },
+  "369": {
+    "pokemonId": 369,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "relicanth",
+    "name": "Relicanth"
+  },
+  "370": {
+    "pokemonId": 370,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "luvdisc",
+    "name": "Luvdisc"
+  },
+  "371": {
+    "pokemonId": 371,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bagon",
+    "name": "Bagon"
+  },
+  "372": {
+    "pokemonId": 372,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shelgon",
+    "name": "Shelgon"
+  },
+  "373": {
+    "pokemonId": 373,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "salamence",
+    "name": "Salamence"
+  },
+  "374": {
+    "pokemonId": 374,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beldum",
+    "name": "Beldum"
+  },
+  "375": {
+    "pokemonId": 375,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "metang",
+    "name": "Metang"
+  },
+  "376": {
+    "pokemonId": 376,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "metagross",
+    "name": "Metagross"
+  },
+  "377": {
+    "pokemonId": 377,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "regirock",
+    "name": "Regirock"
+  },
+  "378": {
+    "pokemonId": 378,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "regice",
+    "name": "Regice"
+  },
+  "379": {
+    "pokemonId": 379,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "registeel",
+    "name": "Registeel"
+  },
+  "380": {
+    "pokemonId": 380,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "latias",
+    "name": "Latias"
+  },
+  "381": {
+    "pokemonId": 381,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "latios",
+    "name": "Latios"
+  },
+  "382": {
+    "pokemonId": 382,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "kyogre",
+    "name": "Kyogre"
+  },
+  "383": {
+    "pokemonId": 383,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "groudon",
+    "name": "Groudon"
+  },
+  "384": {
+    "pokemonId": 384,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "rayquaza",
+    "name": "Rayquaza"
+  },
+  "385": {
+    "pokemonId": 385,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "jirachi",
+    "name": "Jirachi"
+  },
+  "386": {
+    "pokemonId": 386,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "deoxys-normal",
+    "name": "Deoxys"
+  },
+  "387": {
+    "pokemonId": 387,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "turtwig",
+    "name": "Turtwig"
+  },
+  "388": {
+    "pokemonId": 388,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grotle",
+    "name": "Grotle"
+  },
+  "389": {
+    "pokemonId": 389,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "torterra",
+    "name": "Torterra"
+  },
+  "390": {
+    "pokemonId": 390,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chimchar",
+    "name": "Chimchar"
+  },
+  "391": {
+    "pokemonId": 391,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "monferno",
+    "name": "Monferno"
+  },
+  "392": {
+    "pokemonId": 392,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "infernape",
+    "name": "Infernape"
+  },
+  "393": {
+    "pokemonId": 393,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "piplup",
+    "name": "Piplup"
+  },
+  "394": {
+    "pokemonId": 394,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "prinplup",
+    "name": "Prinplup"
+  },
+  "395": {
+    "pokemonId": 395,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "empoleon",
+    "name": "Empoleon"
+  },
+  "396": {
+    "pokemonId": 396,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "starly",
+    "name": "Starly"
+  },
+  "397": {
+    "pokemonId": 397,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "staravia",
+    "name": "Staravia"
+  },
+  "398": {
+    "pokemonId": 398,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "staraptor",
+    "name": "Staraptor"
+  },
+  "399": {
+    "pokemonId": 399,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bidoof",
+    "name": "Bidoof"
+  },
+  "400": {
+    "pokemonId": 400,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bibarel",
+    "name": "Bibarel"
+  },
+  "401": {
+    "pokemonId": 401,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kricketot",
+    "name": "Kricketot"
+  },
+  "402": {
+    "pokemonId": 402,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kricketune",
+    "name": "Kricketune"
+  },
+  "403": {
+    "pokemonId": 403,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shinx",
+    "name": "Shinx"
+  },
+  "404": {
+    "pokemonId": 404,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "luxio",
+    "name": "Luxio"
+  },
+  "405": {
+    "pokemonId": 405,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "luxray",
+    "name": "Luxray"
+  },
+  "406": {
+    "pokemonId": 406,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "budew",
+    "name": "Budew"
+  },
+  "407": {
+    "pokemonId": 407,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "roserade",
+    "name": "Roserade"
+  },
+  "408": {
+    "pokemonId": 408,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cranidos",
+    "name": "Cranidos"
+  },
+  "409": {
+    "pokemonId": 409,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rampardos",
+    "name": "Rampardos"
+  },
+  "410": {
+    "pokemonId": 410,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shieldon",
+    "name": "Shieldon"
+  },
+  "411": {
+    "pokemonId": 411,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bastiodon",
+    "name": "Bastiodon"
+  },
+  "412": {
+    "pokemonId": 412,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "burmy",
+    "name": "Burmy"
+  },
+  "413": {
+    "pokemonId": 413,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wormadam-plant",
+    "name": "Wormadam"
+  },
+  "414": {
+    "pokemonId": 414,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mothim",
+    "name": "Mothim"
+  },
+  "415": {
+    "pokemonId": 415,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "combee",
+    "name": "Combee"
+  },
+  "416": {
+    "pokemonId": 416,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vespiquen",
+    "name": "Vespiquen"
+  },
+  "417": {
+    "pokemonId": 417,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pachirisu",
+    "name": "Pachirisu"
+  },
+  "418": {
+    "pokemonId": 418,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "buizel",
+    "name": "Buizel"
+  },
+  "419": {
+    "pokemonId": 419,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "floatzel",
+    "name": "Floatzel"
+  },
+  "420": {
+    "pokemonId": 420,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cherubi",
+    "name": "Cherubi"
+  },
+  "421": {
+    "pokemonId": 421,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cherrim",
+    "name": "Cherrim"
+  },
+  "422": {
+    "pokemonId": 422,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shellos",
+    "name": "Shellos"
+  },
+  "423": {
+    "pokemonId": 423,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gastrodon",
+    "name": "Gastrodon"
+  },
+  "424": {
+    "pokemonId": 424,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ambipom",
+    "name": "Ambipom"
+  },
+  "425": {
+    "pokemonId": 425,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drifloon",
+    "name": "Drifloon"
+  },
+  "426": {
+    "pokemonId": 426,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drifblim",
+    "name": "Drifblim"
+  },
+  "427": {
+    "pokemonId": 427,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "buneary",
+    "name": "Buneary"
+  },
+  "428": {
+    "pokemonId": 428,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lopunny",
+    "name": "Lopunny"
+  },
+  "429": {
+    "pokemonId": 429,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mismagius",
+    "name": "Mismagius"
+  },
+  "430": {
+    "pokemonId": 430,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "honchkrow",
+    "name": "Honchkrow"
+  },
+  "431": {
+    "pokemonId": 431,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glameow",
+    "name": "Glameow"
+  },
+  "432": {
+    "pokemonId": 432,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "purugly",
+    "name": "Purugly"
+  },
+  "433": {
+    "pokemonId": 433,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chingling",
+    "name": "Chingling"
+  },
+  "434": {
+    "pokemonId": 434,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stunky",
+    "name": "Stunky"
+  },
+  "435": {
+    "pokemonId": 435,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skuntank",
+    "name": "Skuntank"
+  },
+  "436": {
+    "pokemonId": 436,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bronzor",
+    "name": "Bronzor"
+  },
+  "437": {
+    "pokemonId": 437,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bronzong",
+    "name": "Bronzong"
+  },
+  "438": {
+    "pokemonId": 438,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bonsly",
+    "name": "Bonsly"
+  },
+  "439": {
+    "pokemonId": 439,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mime-jr",
+    "name": "Mime Jr."
+  },
+  "440": {
+    "pokemonId": 440,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "happiny",
+    "name": "Happiny"
+  },
+  "441": {
+    "pokemonId": 441,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chatot",
+    "name": "Chatot"
+  },
+  "442": {
+    "pokemonId": 442,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spiritomb",
+    "name": "Spiritomb"
+  },
+  "443": {
+    "pokemonId": 443,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gible",
+    "name": "Gible"
+  },
+  "444": {
+    "pokemonId": 444,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gabite",
+    "name": "Gabite"
+  },
+  "445": {
+    "pokemonId": 445,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "garchomp",
+    "name": "Garchomp"
+  },
+  "446": {
+    "pokemonId": 446,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "munchlax",
+    "name": "Munchlax"
+  },
+  "447": {
+    "pokemonId": 447,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "riolu",
+    "name": "Riolu"
+  },
+  "448": {
+    "pokemonId": 448,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lucario",
+    "name": "Lucario"
+  },
+  "449": {
+    "pokemonId": 449,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hippopotas",
+    "name": "Hippopotas"
+  },
+  "450": {
+    "pokemonId": 450,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hippowdon",
+    "name": "Hippowdon"
+  },
+  "451": {
+    "pokemonId": 451,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skorupi",
+    "name": "Skorupi"
+  },
+  "452": {
+    "pokemonId": 452,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drapion",
+    "name": "Drapion"
+  },
+  "453": {
+    "pokemonId": 453,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "croagunk",
+    "name": "Croagunk"
+  },
+  "454": {
+    "pokemonId": 454,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxicroak",
+    "name": "Toxicroak"
+  },
+  "455": {
+    "pokemonId": 455,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "carnivine",
+    "name": "Carnivine"
+  },
+  "456": {
+    "pokemonId": 456,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "finneon",
+    "name": "Finneon"
+  },
+  "457": {
+    "pokemonId": 457,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lumineon",
+    "name": "Lumineon"
+  },
+  "458": {
+    "pokemonId": 458,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mantyke",
+    "name": "Mantyke"
+  },
+  "459": {
+    "pokemonId": 459,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snover",
+    "name": "Snover"
+  },
+  "460": {
+    "pokemonId": 460,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "abomasnow",
+    "name": "Abomasnow"
+  },
+  "461": {
+    "pokemonId": 461,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "weavile",
+    "name": "Weavile"
+  },
+  "462": {
+    "pokemonId": 462,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magnezone",
+    "name": "Magnezone"
+  },
+  "463": {
+    "pokemonId": 463,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lickilicky",
+    "name": "Lickilicky"
+  },
+  "464": {
+    "pokemonId": 464,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rhyperior",
+    "name": "Rhyperior"
+  },
+  "465": {
+    "pokemonId": 465,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tangrowth",
+    "name": "Tangrowth"
+  },
+  "466": {
+    "pokemonId": 466,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "electivire",
+    "name": "Electivire"
+  },
+  "467": {
+    "pokemonId": 467,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magmortar",
+    "name": "Magmortar"
+  },
+  "468": {
+    "pokemonId": 468,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "togekiss",
+    "name": "Togekiss"
+  },
+  "469": {
+    "pokemonId": 469,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yanmega",
+    "name": "Yanmega"
+  },
+  "470": {
+    "pokemonId": 470,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "leafeon",
+    "name": "Leafeon"
+  },
+  "471": {
+    "pokemonId": 471,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glaceon",
+    "name": "Glaceon"
+  },
+  "472": {
+    "pokemonId": 472,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gliscor",
+    "name": "Gliscor"
+  },
+  "473": {
+    "pokemonId": 473,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mamoswine",
+    "name": "Mamoswine"
+  },
+  "474": {
+    "pokemonId": 474,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "porygon-z",
+    "name": "Porygon-Z"
+  },
+  "475": {
+    "pokemonId": 475,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gallade",
+    "name": "Gallade"
+  },
+  "476": {
+    "pokemonId": 476,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "probopass",
+    "name": "Probopass"
+  },
+  "477": {
+    "pokemonId": 477,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dusknoir",
+    "name": "Dusknoir"
+  },
+  "478": {
+    "pokemonId": 478,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "froslass",
+    "name": "Froslass"
+  },
+  "479": {
+    "pokemonId": 479,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom",
+    "name": "Rotom"
+  },
+  "480": {
+    "pokemonId": 480,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "uxie",
+    "name": "Uxie"
+  },
+  "481": {
+    "pokemonId": 481,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "mesprit",
+    "name": "Mesprit"
+  },
+  "482": {
+    "pokemonId": 482,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "azelf",
+    "name": "Azelf"
+  },
+  "483": {
+    "pokemonId": 483,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "dialga",
+    "name": "Dialga"
+  },
+  "484": {
+    "pokemonId": 484,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "palkia",
+    "name": "Palkia"
+  },
+  "485": {
+    "pokemonId": 485,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "heatran",
+    "name": "Heatran"
+  },
+  "486": {
+    "pokemonId": 486,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "regigigas",
+    "name": "Regigigas"
+  },
+  "487": {
+    "pokemonId": 487,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "giratina-altered",
+    "name": "Giratina"
+  },
+  "488": {
+    "pokemonId": 488,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cresselia",
+    "name": "Cresselia"
+  },
+  "489": {
+    "pokemonId": 489,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "phione",
+    "name": "Phione"
+  },
+  "490": {
+    "pokemonId": 490,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "manaphy",
+    "name": "Manaphy"
+  },
+  "491": {
+    "pokemonId": 491,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darkrai",
+    "name": "Darkrai"
+  },
+  "492": {
+    "pokemonId": 492,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shaymin-land",
+    "name": "Shaymin"
+  },
+  "493": {
+    "pokemonId": 493,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arceus",
+    "name": "Arceus"
+  },
+  "494": {
+    "pokemonId": 494,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "victini",
+    "name": "Victini"
+  },
+  "495": {
+    "pokemonId": 495,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snivy",
+    "name": "Snivy"
+  },
+  "496": {
+    "pokemonId": 496,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "servine",
+    "name": "Servine"
+  },
+  "497": {
+    "pokemonId": 497,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "serperior",
+    "name": "Serperior"
+  },
+  "498": {
+    "pokemonId": 498,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tepig",
+    "name": "Tepig"
+  },
+  "499": {
+    "pokemonId": 499,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pignite",
+    "name": "Pignite"
+  },
+  "500": {
+    "pokemonId": 500,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "emboar",
+    "name": "Emboar"
+  },
+  "501": {
+    "pokemonId": 501,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oshawott",
+    "name": "Oshawott"
+  },
+  "502": {
+    "pokemonId": 502,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dewott",
+    "name": "Dewott"
+  },
+  "503": {
+    "pokemonId": 503,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "samurott",
+    "name": "Samurott"
+  },
+  "504": {
+    "pokemonId": 504,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "patrat",
+    "name": "Patrat"
+  },
+  "505": {
+    "pokemonId": 505,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "watchog",
+    "name": "Watchog"
+  },
+  "506": {
+    "pokemonId": 506,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lillipup",
+    "name": "Lillipup"
+  },
+  "507": {
+    "pokemonId": 507,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "herdier",
+    "name": "Herdier"
+  },
+  "508": {
+    "pokemonId": 508,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stoutland",
+    "name": "Stoutland"
+  },
+  "509": {
+    "pokemonId": 509,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "purrloin",
+    "name": "Purrloin"
+  },
+  "510": {
+    "pokemonId": 510,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "liepard",
+    "name": "Liepard"
+  },
+  "511": {
+    "pokemonId": 511,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pansage",
+    "name": "Pansage"
+  },
+  "512": {
+    "pokemonId": 512,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "simisage",
+    "name": "Simisage"
+  },
+  "513": {
+    "pokemonId": 513,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pansear",
+    "name": "Pansear"
+  },
+  "514": {
+    "pokemonId": 514,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "simisear",
+    "name": "Simisear"
+  },
+  "515": {
+    "pokemonId": 515,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "panpour",
+    "name": "Panpour"
+  },
+  "516": {
+    "pokemonId": 516,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "simipour",
+    "name": "Simipour"
+  },
+  "517": {
+    "pokemonId": 517,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "munna",
+    "name": "Munna"
+  },
+  "518": {
+    "pokemonId": 518,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "musharna",
+    "name": "Musharna"
+  },
+  "519": {
+    "pokemonId": 519,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pidove",
+    "name": "Pidove"
+  },
+  "520": {
+    "pokemonId": 520,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tranquill",
+    "name": "Tranquill"
+  },
+  "521": {
+    "pokemonId": 521,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "unfezant",
+    "name": "Unfezant"
+  },
+  "522": {
+    "pokemonId": 522,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blitzle",
+    "name": "Blitzle"
+  },
+  "523": {
+    "pokemonId": 523,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zebstrika",
+    "name": "Zebstrika"
+  },
+  "524": {
+    "pokemonId": 524,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "roggenrola",
+    "name": "Roggenrola"
+  },
+  "525": {
+    "pokemonId": 525,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "boldore",
+    "name": "Boldore"
+  },
+  "526": {
+    "pokemonId": 526,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gigalith",
+    "name": "Gigalith"
+  },
+  "527": {
+    "pokemonId": 527,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "woobat",
+    "name": "Woobat"
+  },
+  "528": {
+    "pokemonId": 528,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swoobat",
+    "name": "Swoobat"
+  },
+  "529": {
+    "pokemonId": 529,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drilbur",
+    "name": "Drilbur"
+  },
+  "530": {
+    "pokemonId": 530,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "excadrill",
+    "name": "Excadrill"
+  },
+  "531": {
+    "pokemonId": 531,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "audino",
+    "name": "Audino"
+  },
+  "532": {
+    "pokemonId": 532,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "timburr",
+    "name": "Timburr"
+  },
+  "533": {
+    "pokemonId": 533,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gurdurr",
+    "name": "Gurdurr"
+  },
+  "534": {
+    "pokemonId": 534,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "conkeldurr",
+    "name": "Conkeldurr"
+  },
+  "535": {
+    "pokemonId": 535,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tympole",
+    "name": "Tympole"
+  },
+  "536": {
+    "pokemonId": 536,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "palpitoad",
+    "name": "Palpitoad"
+  },
+  "537": {
+    "pokemonId": 537,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "seismitoad",
+    "name": "Seismitoad"
+  },
+  "538": {
+    "pokemonId": 538,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "throh",
+    "name": "Throh"
+  },
+  "539": {
+    "pokemonId": 539,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sawk",
+    "name": "Sawk"
+  },
+  "540": {
+    "pokemonId": 540,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sewaddle",
+    "name": "Sewaddle"
+  },
+  "541": {
+    "pokemonId": 541,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swadloon",
+    "name": "Swadloon"
+  },
+  "542": {
+    "pokemonId": 542,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "leavanny",
+    "name": "Leavanny"
+  },
+  "543": {
+    "pokemonId": 543,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venipede",
+    "name": "Venipede"
+  },
+  "544": {
+    "pokemonId": 544,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "whirlipede",
+    "name": "Whirlipede"
+  },
+  "545": {
+    "pokemonId": 545,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scolipede",
+    "name": "Scolipede"
+  },
+  "546": {
+    "pokemonId": 546,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cottonee",
+    "name": "Cottonee"
+  },
+  "547": {
+    "pokemonId": 547,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "whimsicott",
+    "name": "Whimsicott"
+  },
+  "548": {
+    "pokemonId": 548,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "petilil",
+    "name": "Petilil"
+  },
+  "549": {
+    "pokemonId": 549,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lilligant",
+    "name": "Lilligant"
+  },
+  "550": {
+    "pokemonId": 550,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "basculin-red-striped",
+    "name": "Basculin"
+  },
+  "551": {
+    "pokemonId": 551,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandile",
+    "name": "Sandile"
+  },
+  "552": {
+    "pokemonId": 552,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "krokorok",
+    "name": "Krokorok"
+  },
+  "553": {
+    "pokemonId": 553,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "krookodile",
+    "name": "Krookodile"
+  },
+  "554": {
+    "pokemonId": 554,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darumaka",
+    "name": "Darumaka"
+  },
+  "555": {
+    "pokemonId": 555,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darmanitan-standard",
+    "name": "Darmanitan"
+  },
+  "556": {
+    "pokemonId": 556,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "maractus",
+    "name": "Maractus"
+  },
+  "557": {
+    "pokemonId": 557,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dwebble",
+    "name": "Dwebble"
+  },
+  "558": {
+    "pokemonId": 558,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crustle",
+    "name": "Crustle"
+  },
+  "559": {
+    "pokemonId": 559,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scraggy",
+    "name": "Scraggy"
+  },
+  "560": {
+    "pokemonId": 560,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scrafty",
+    "name": "Scrafty"
+  },
+  "561": {
+    "pokemonId": 561,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sigilyph",
+    "name": "Sigilyph"
+  },
+  "562": {
+    "pokemonId": 562,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yamask",
+    "name": "Yamask"
+  },
+  "563": {
+    "pokemonId": 563,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cofagrigus",
+    "name": "Cofagrigus"
+  },
+  "564": {
+    "pokemonId": 564,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tirtouga",
+    "name": "Tirtouga"
+  },
+  "565": {
+    "pokemonId": 565,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "carracosta",
+    "name": "Carracosta"
+  },
+  "566": {
+    "pokemonId": 566,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "archen",
+    "name": "Archen"
+  },
+  "567": {
+    "pokemonId": 567,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "archeops",
+    "name": "Archeops"
+  },
+  "568": {
+    "pokemonId": 568,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "trubbish",
+    "name": "Trubbish"
+  },
+  "569": {
+    "pokemonId": 569,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "garbodor",
+    "name": "Garbodor"
+  },
+  "570": {
+    "pokemonId": 570,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zorua",
+    "name": "Zorua"
+  },
+  "571": {
+    "pokemonId": 571,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zoroark",
+    "name": "Zoroark"
+  },
+  "572": {
+    "pokemonId": 572,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minccino",
+    "name": "Minccino"
+  },
+  "573": {
+    "pokemonId": 573,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cinccino",
+    "name": "Cinccino"
+  },
+  "574": {
+    "pokemonId": 574,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gothita",
+    "name": "Gothita"
+  },
+  "575": {
+    "pokemonId": 575,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gothorita",
+    "name": "Gothorita"
+  },
+  "576": {
+    "pokemonId": 576,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gothitelle",
+    "name": "Gothitelle"
+  },
+  "577": {
+    "pokemonId": 577,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "solosis",
+    "name": "Solosis"
+  },
+  "578": {
+    "pokemonId": 578,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "duosion",
+    "name": "Duosion"
+  },
+  "579": {
+    "pokemonId": 579,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "reuniclus",
+    "name": "Reuniclus"
+  },
+  "580": {
+    "pokemonId": 580,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ducklett",
+    "name": "Ducklett"
+  },
+  "581": {
+    "pokemonId": 581,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swanna",
+    "name": "Swanna"
+  },
+  "582": {
+    "pokemonId": 582,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vanillite",
+    "name": "Vanillite"
+  },
+  "583": {
+    "pokemonId": 583,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vanillish",
+    "name": "Vanillish"
+  },
+  "584": {
+    "pokemonId": 584,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vanilluxe",
+    "name": "Vanilluxe"
+  },
+  "585": {
+    "pokemonId": 585,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "deerling",
+    "name": "Deerling"
+  },
+  "586": {
+    "pokemonId": 586,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sawsbuck",
+    "name": "Sawsbuck"
+  },
+  "587": {
+    "pokemonId": 587,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "emolga",
+    "name": "Emolga"
+  },
+  "588": {
+    "pokemonId": 588,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "karrablast",
+    "name": "Karrablast"
+  },
+  "589": {
+    "pokemonId": 589,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "escavalier",
+    "name": "Escavalier"
+  },
+  "590": {
+    "pokemonId": 590,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "foongus",
+    "name": "Foongus"
+  },
+  "591": {
+    "pokemonId": 591,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "amoonguss",
+    "name": "Amoonguss"
+  },
+  "592": {
+    "pokemonId": 592,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "frillish",
+    "name": "Frillish"
+  },
+  "593": {
+    "pokemonId": 593,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jellicent",
+    "name": "Jellicent"
+  },
+  "594": {
+    "pokemonId": 594,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "alomomola",
+    "name": "Alomomola"
+  },
+  "595": {
+    "pokemonId": 595,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "joltik",
+    "name": "Joltik"
+  },
+  "596": {
+    "pokemonId": 596,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "galvantula",
+    "name": "Galvantula"
+  },
+  "597": {
+    "pokemonId": 597,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ferroseed",
+    "name": "Ferroseed"
+  },
+  "598": {
+    "pokemonId": 598,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ferrothorn",
+    "name": "Ferrothorn"
+  },
+  "599": {
+    "pokemonId": 599,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "klink",
+    "name": "Klink"
+  },
+  "600": {
+    "pokemonId": 600,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "klang",
+    "name": "Klang"
+  },
+  "601": {
+    "pokemonId": 601,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "klinklang",
+    "name": "Klinklang"
+  },
+  "602": {
+    "pokemonId": 602,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tynamo",
+    "name": "Tynamo"
+  },
+  "603": {
+    "pokemonId": 603,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eelektrik",
+    "name": "Eelektrik"
+  },
+  "604": {
+    "pokemonId": 604,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eelektross",
+    "name": "Eelektross"
+  },
+  "605": {
+    "pokemonId": 605,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "elgyem",
+    "name": "Elgyem"
+  },
+  "606": {
+    "pokemonId": 606,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beheeyem",
+    "name": "Beheeyem"
+  },
+  "607": {
+    "pokemonId": 607,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "litwick",
+    "name": "Litwick"
+  },
+  "608": {
+    "pokemonId": 608,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lampent",
+    "name": "Lampent"
+  },
+  "609": {
+    "pokemonId": 609,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chandelure",
+    "name": "Chandelure"
+  },
+  "610": {
+    "pokemonId": 610,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "axew",
+    "name": "Axew"
+  },
+  "611": {
+    "pokemonId": 611,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fraxure",
+    "name": "Fraxure"
+  },
+  "612": {
+    "pokemonId": 612,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "haxorus",
+    "name": "Haxorus"
+  },
+  "613": {
+    "pokemonId": 613,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cubchoo",
+    "name": "Cubchoo"
+  },
+  "614": {
+    "pokemonId": 614,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beartic",
+    "name": "Beartic"
+  },
+  "615": {
+    "pokemonId": 615,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cryogonal",
+    "name": "Cryogonal"
+  },
+  "616": {
+    "pokemonId": 616,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shelmet",
+    "name": "Shelmet"
+  },
+  "617": {
+    "pokemonId": 617,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "accelgor",
+    "name": "Accelgor"
+  },
+  "618": {
+    "pokemonId": 618,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stunfisk",
+    "name": "Stunfisk"
+  },
+  "619": {
+    "pokemonId": 619,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mienfoo",
+    "name": "Mienfoo"
+  },
+  "620": {
+    "pokemonId": 620,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mienshao",
+    "name": "Mienshao"
+  },
+  "621": {
+    "pokemonId": 621,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "druddigon",
+    "name": "Druddigon"
+  },
+  "622": {
+    "pokemonId": 622,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golett",
+    "name": "Golett"
+  },
+  "623": {
+    "pokemonId": 623,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golurk",
+    "name": "Golurk"
+  },
+  "624": {
+    "pokemonId": 624,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pawniard",
+    "name": "Pawniard"
+  },
+  "625": {
+    "pokemonId": 625,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bisharp",
+    "name": "Bisharp"
+  },
+  "626": {
+    "pokemonId": 626,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bouffalant",
+    "name": "Bouffalant"
+  },
+  "627": {
+    "pokemonId": 627,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rufflet",
+    "name": "Rufflet"
+  },
+  "628": {
+    "pokemonId": 628,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "braviary",
+    "name": "Braviary"
+  },
+  "629": {
+    "pokemonId": 629,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vullaby",
+    "name": "Vullaby"
+  },
+  "630": {
+    "pokemonId": 630,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mandibuzz",
+    "name": "Mandibuzz"
+  },
+  "631": {
+    "pokemonId": 631,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "heatmor",
+    "name": "Heatmor"
+  },
+  "632": {
+    "pokemonId": 632,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "durant",
+    "name": "Durant"
+  },
+  "633": {
+    "pokemonId": 633,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "deino",
+    "name": "Deino"
+  },
+  "634": {
+    "pokemonId": 634,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zweilous",
+    "name": "Zweilous"
+  },
+  "635": {
+    "pokemonId": 635,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hydreigon",
+    "name": "Hydreigon"
+  },
+  "636": {
+    "pokemonId": 636,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "larvesta",
+    "name": "Larvesta"
+  },
+  "637": {
+    "pokemonId": 637,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "volcarona",
+    "name": "Volcarona"
+  },
+  "638": {
+    "pokemonId": 638,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "cobalion",
+    "name": "Cobalion"
+  },
+  "639": {
+    "pokemonId": 639,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "terrakion",
+    "name": "Terrakion"
+  },
+  "640": {
+    "pokemonId": 640,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "virizion",
+    "name": "Virizion"
+  },
+  "641": {
+    "pokemonId": 641,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tornadus-incarnate",
+    "name": "Tornadus"
+  },
+  "642": {
+    "pokemonId": 642,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "thundurus-incarnate",
+    "name": "Thundurus"
+  },
+  "643": {
+    "pokemonId": 643,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "reshiram",
+    "name": "Reshiram"
+  },
+  "644": {
+    "pokemonId": 644,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "zekrom",
+    "name": "Zekrom"
+  },
+  "645": {
+    "pokemonId": 645,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "landorus-incarnate",
+    "name": "Landorus"
+  },
+  "646": {
+    "pokemonId": 646,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "kyurem",
+    "name": "Kyurem"
+  },
+  "647": {
+    "pokemonId": 647,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "keldeo-ordinary",
+    "name": "Keldeo"
+  },
+  "648": {
+    "pokemonId": 648,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "meloetta-aria",
+    "name": "Meloetta"
+  },
+  "649": {
+    "pokemonId": 649,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "genesect",
+    "name": "Genesect"
+  },
+  "650": {
+    "pokemonId": 650,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chespin",
+    "name": "Chespin"
+  },
+  "651": {
+    "pokemonId": 651,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quilladin",
+    "name": "Quilladin"
+  },
+  "652": {
+    "pokemonId": 652,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chesnaught",
+    "name": "Chesnaught"
+  },
+  "653": {
+    "pokemonId": 653,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fennekin",
+    "name": "Fennekin"
+  },
+  "654": {
+    "pokemonId": 654,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "braixen",
+    "name": "Braixen"
+  },
+  "655": {
+    "pokemonId": 655,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "delphox",
+    "name": "Delphox"
+  },
+  "656": {
+    "pokemonId": 656,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "froakie",
+    "name": "Froakie"
+  },
+  "657": {
+    "pokemonId": 657,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "frogadier",
+    "name": "Frogadier"
+  },
+  "658": {
+    "pokemonId": 658,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "greninja",
+    "name": "Greninja"
+  },
+  "659": {
+    "pokemonId": 659,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bunnelby",
+    "name": "Bunnelby"
+  },
+  "660": {
+    "pokemonId": 660,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "diggersby",
+    "name": "Diggersby"
+  },
+  "661": {
+    "pokemonId": 661,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fletchling",
+    "name": "Fletchling"
+  },
+  "662": {
+    "pokemonId": 662,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fletchinder",
+    "name": "Fletchinder"
+  },
+  "663": {
+    "pokemonId": 663,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "talonflame",
+    "name": "Talonflame"
+  },
+  "664": {
+    "pokemonId": 664,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scatterbug",
+    "name": "Scatterbug"
+  },
+  "665": {
+    "pokemonId": 665,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spewpa",
+    "name": "Spewpa"
+  },
+  "666": {
+    "pokemonId": 666,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vivillon",
+    "name": "Vivillon"
+  },
+  "667": {
+    "pokemonId": 667,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "litleo",
+    "name": "Litleo"
+  },
+  "668": {
+    "pokemonId": 668,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pyroar",
+    "name": "Pyroar"
+  },
+  "669": {
+    "pokemonId": 669,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flabebe",
+    "name": "Flabébé"
+  },
+  "670": {
+    "pokemonId": 670,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "floette",
+    "name": "Floette"
+  },
+  "671": {
+    "pokemonId": 671,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "florges",
+    "name": "Florges"
+  },
+  "672": {
+    "pokemonId": 672,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skiddo",
+    "name": "Skiddo"
+  },
+  "673": {
+    "pokemonId": 673,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gogoat",
+    "name": "Gogoat"
+  },
+  "674": {
+    "pokemonId": 674,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pancham",
+    "name": "Pancham"
+  },
+  "675": {
+    "pokemonId": 675,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pangoro",
+    "name": "Pangoro"
+  },
+  "676": {
+    "pokemonId": 676,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "furfrou",
+    "name": "Furfrou"
+  },
+  "677": {
+    "pokemonId": 677,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "espurr",
+    "name": "Espurr"
+  },
+  "678": {
+    "pokemonId": 678,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowstic-male",
+    "name": "Meowstic"
+  },
+  "679": {
+    "pokemonId": 679,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "honedge",
+    "name": "Honedge"
+  },
+  "680": {
+    "pokemonId": 680,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "doublade",
+    "name": "Doublade"
+  },
+  "681": {
+    "pokemonId": 681,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aegislash-shield",
+    "name": "Aegislash"
+  },
+  "682": {
+    "pokemonId": 682,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spritzee",
+    "name": "Spritzee"
+  },
+  "683": {
+    "pokemonId": 683,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aromatisse",
+    "name": "Aromatisse"
+  },
+  "684": {
+    "pokemonId": 684,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swirlix",
+    "name": "Swirlix"
+  },
+  "685": {
+    "pokemonId": 685,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slurpuff",
+    "name": "Slurpuff"
+  },
+  "686": {
+    "pokemonId": 686,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "inkay",
+    "name": "Inkay"
+  },
+  "687": {
+    "pokemonId": 687,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "malamar",
+    "name": "Malamar"
+  },
+  "688": {
+    "pokemonId": 688,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "binacle",
+    "name": "Binacle"
+  },
+  "689": {
+    "pokemonId": 689,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "barbaracle",
+    "name": "Barbaracle"
+  },
+  "690": {
+    "pokemonId": 690,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skrelp",
+    "name": "Skrelp"
+  },
+  "691": {
+    "pokemonId": 691,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dragalge",
+    "name": "Dragalge"
+  },
+  "692": {
+    "pokemonId": 692,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clauncher",
+    "name": "Clauncher"
+  },
+  "693": {
+    "pokemonId": 693,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clawitzer",
+    "name": "Clawitzer"
+  },
+  "694": {
+    "pokemonId": 694,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "helioptile",
+    "name": "Helioptile"
+  },
+  "695": {
+    "pokemonId": 695,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "heliolisk",
+    "name": "Heliolisk"
+  },
+  "696": {
+    "pokemonId": 696,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tyrunt",
+    "name": "Tyrunt"
+  },
+  "697": {
+    "pokemonId": 697,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tyrantrum",
+    "name": "Tyrantrum"
+  },
+  "698": {
+    "pokemonId": 698,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "amaura",
+    "name": "Amaura"
+  },
+  "699": {
+    "pokemonId": 699,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aurorus",
+    "name": "Aurorus"
+  },
+  "700": {
+    "pokemonId": 700,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sylveon",
+    "name": "Sylveon"
+  },
+  "701": {
+    "pokemonId": 701,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hawlucha",
+    "name": "Hawlucha"
+  },
+  "702": {
+    "pokemonId": 702,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dedenne",
+    "name": "Dedenne"
+  },
+  "703": {
+    "pokemonId": 703,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "carbink",
+    "name": "Carbink"
+  },
+  "704": {
+    "pokemonId": 704,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "goomy",
+    "name": "Goomy"
+  },
+  "705": {
+    "pokemonId": 705,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sliggoo",
+    "name": "Sliggoo"
+  },
+  "706": {
+    "pokemonId": 706,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "goodra",
+    "name": "Goodra"
+  },
+  "707": {
+    "pokemonId": 707,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "klefki",
+    "name": "Klefki"
+  },
+  "708": {
+    "pokemonId": 708,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "phantump",
+    "name": "Phantump"
+  },
+  "709": {
+    "pokemonId": 709,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "trevenant",
+    "name": "Trevenant"
+  },
+  "710": {
+    "pokemonId": 710,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pumpkaboo-average",
+    "name": "Pumpkaboo"
+  },
+  "711": {
+    "pokemonId": 711,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gourgeist-average",
+    "name": "Gourgeist"
+  },
+  "712": {
+    "pokemonId": 712,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bergmite",
+    "name": "Bergmite"
+  },
+  "713": {
+    "pokemonId": 713,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "avalugg",
+    "name": "Avalugg"
+  },
+  "714": {
+    "pokemonId": 714,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "noibat",
+    "name": "Noibat"
+  },
+  "715": {
+    "pokemonId": 715,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "noivern",
+    "name": "Noivern"
+  },
+  "716": {
+    "pokemonId": 716,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "xerneas",
+    "name": "Xerneas"
+  },
+  "717": {
+    "pokemonId": 717,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "yveltal",
+    "name": "Yveltal"
+  },
+  "718": {
+    "pokemonId": 718,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "zygarde-50",
+    "name": "Zygarde"
+  },
+  "719": {
+    "pokemonId": 719,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "diancie",
+    "name": "Diancie"
+  },
+  "720": {
+    "pokemonId": 720,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hoopa",
+    "name": "Hoopa"
+  },
+  "721": {
+    "pokemonId": 721,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "volcanion",
+    "name": "Volcanion"
+  },
+  "722": {
+    "pokemonId": 722,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rowlet",
+    "name": "Rowlet"
+  },
+  "723": {
+    "pokemonId": 723,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dartrix",
+    "name": "Dartrix"
+  },
+  "724": {
+    "pokemonId": 724,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "decidueye",
+    "name": "Decidueye"
+  },
+  "725": {
+    "pokemonId": 725,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "litten",
+    "name": "Litten"
+  },
+  "726": {
+    "pokemonId": 726,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "torracat",
+    "name": "Torracat"
+  },
+  "727": {
+    "pokemonId": 727,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "incineroar",
+    "name": "Incineroar"
+  },
+  "728": {
+    "pokemonId": 728,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "popplio",
+    "name": "Popplio"
+  },
+  "729": {
+    "pokemonId": 729,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "brionne",
+    "name": "Brionne"
+  },
+  "730": {
+    "pokemonId": 730,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "primarina",
+    "name": "Primarina"
+  },
+  "731": {
+    "pokemonId": 731,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikipek",
+    "name": "Pikipek"
+  },
+  "732": {
+    "pokemonId": 732,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "trumbeak",
+    "name": "Trumbeak"
+  },
+  "733": {
+    "pokemonId": 733,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toucannon",
+    "name": "Toucannon"
+  },
+  "734": {
+    "pokemonId": 734,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yungoos",
+    "name": "Yungoos"
+  },
+  "735": {
+    "pokemonId": 735,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gumshoos",
+    "name": "Gumshoos"
+  },
+  "736": {
+    "pokemonId": 736,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grubbin",
+    "name": "Grubbin"
+  },
+  "737": {
+    "pokemonId": 737,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charjabug",
+    "name": "Charjabug"
+  },
+  "738": {
+    "pokemonId": 738,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vikavolt",
+    "name": "Vikavolt"
+  },
+  "739": {
+    "pokemonId": 739,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crabrawler",
+    "name": "Crabrawler"
+  },
+  "740": {
+    "pokemonId": 740,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crabominable",
+    "name": "Crabominable"
+  },
+  "741": {
+    "pokemonId": 741,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oricorio-baile",
+    "name": "Oricorio"
+  },
+  "742": {
+    "pokemonId": 742,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cutiefly",
+    "name": "Cutiefly"
+  },
+  "743": {
+    "pokemonId": 743,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ribombee",
+    "name": "Ribombee"
+  },
+  "744": {
+    "pokemonId": 744,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rockruff",
+    "name": "Rockruff"
+  },
+  "745": {
+    "pokemonId": 745,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lycanroc-midday",
+    "name": "Lycanroc"
+  },
+  "746": {
+    "pokemonId": 746,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wishiwashi-solo",
+    "name": "Wishiwashi"
+  },
+  "747": {
+    "pokemonId": 747,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mareanie",
+    "name": "Mareanie"
+  },
+  "748": {
+    "pokemonId": 748,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxapex",
+    "name": "Toxapex"
+  },
+  "749": {
+    "pokemonId": 749,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mudbray",
+    "name": "Mudbray"
+  },
+  "750": {
+    "pokemonId": 750,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mudsdale",
+    "name": "Mudsdale"
+  },
+  "751": {
+    "pokemonId": 751,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dewpider",
+    "name": "Dewpider"
+  },
+  "752": {
+    "pokemonId": 752,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "araquanid",
+    "name": "Araquanid"
+  },
+  "753": {
+    "pokemonId": 753,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fomantis",
+    "name": "Fomantis"
+  },
+  "754": {
+    "pokemonId": 754,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lurantis",
+    "name": "Lurantis"
+  },
+  "755": {
+    "pokemonId": 755,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "morelull",
+    "name": "Morelull"
+  },
+  "756": {
+    "pokemonId": 756,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shiinotic",
+    "name": "Shiinotic"
+  },
+  "757": {
+    "pokemonId": 757,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "salandit",
+    "name": "Salandit"
+  },
+  "758": {
+    "pokemonId": 758,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "salazzle",
+    "name": "Salazzle"
+  },
+  "759": {
+    "pokemonId": 759,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stufful",
+    "name": "Stufful"
+  },
+  "760": {
+    "pokemonId": 760,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bewear",
+    "name": "Bewear"
+  },
+  "761": {
+    "pokemonId": 761,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bounsweet",
+    "name": "Bounsweet"
+  },
+  "762": {
+    "pokemonId": 762,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "steenee",
+    "name": "Steenee"
+  },
+  "763": {
+    "pokemonId": 763,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tsareena",
+    "name": "Tsareena"
+  },
+  "764": {
+    "pokemonId": 764,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "comfey",
+    "name": "Comfey"
+  },
+  "765": {
+    "pokemonId": 765,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oranguru",
+    "name": "Oranguru"
+  },
+  "766": {
+    "pokemonId": 766,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "passimian",
+    "name": "Passimian"
+  },
+  "767": {
+    "pokemonId": 767,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wimpod",
+    "name": "Wimpod"
+  },
+  "768": {
+    "pokemonId": 768,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golisopod",
+    "name": "Golisopod"
+  },
+  "769": {
+    "pokemonId": 769,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandygast",
+    "name": "Sandygast"
+  },
+  "770": {
+    "pokemonId": 770,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "palossand",
+    "name": "Palossand"
+  },
+  "771": {
+    "pokemonId": 771,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pyukumuku",
+    "name": "Pyukumuku"
+  },
+  "772": {
+    "pokemonId": 772,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "type-null",
+    "name": "Type: Null"
+  },
+  "773": {
+    "pokemonId": 773,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "silvally",
+    "name": "Silvally"
+  },
+  "774": {
+    "pokemonId": 774,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-red-meteor",
+    "name": "Minior"
+  },
+  "775": {
+    "pokemonId": 775,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "komala",
+    "name": "Komala"
+  },
+  "776": {
+    "pokemonId": 776,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "turtonator",
+    "name": "Turtonator"
+  },
+  "777": {
+    "pokemonId": 777,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "togedemaru",
+    "name": "Togedemaru"
+  },
+  "778": {
+    "pokemonId": 778,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mimikyu-disguised",
+    "name": "Mimikyu"
+  },
+  "779": {
+    "pokemonId": 779,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bruxish",
+    "name": "Bruxish"
+  },
+  "780": {
+    "pokemonId": 780,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drampa",
+    "name": "Drampa"
+  },
+  "781": {
+    "pokemonId": 781,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dhelmise",
+    "name": "Dhelmise"
+  },
+  "782": {
+    "pokemonId": 782,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "jangmo-o",
+    "name": "Jangmo-o"
+  },
+  "783": {
+    "pokemonId": 783,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hakamo-o",
+    "name": "Hakamo-o"
+  },
+  "784": {
+    "pokemonId": 784,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kommo-o",
+    "name": "Kommo-o"
+  },
+  "785": {
+    "pokemonId": 785,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tapu-koko",
+    "name": "Tapu Koko"
+  },
+  "786": {
+    "pokemonId": 786,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tapu-lele",
+    "name": "Tapu Lele"
+  },
+  "787": {
+    "pokemonId": 787,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tapu-bulu",
+    "name": "Tapu Bulu"
+  },
+  "788": {
+    "pokemonId": 788,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tapu-fini",
+    "name": "Tapu Fini"
+  },
+  "789": {
+    "pokemonId": 789,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "cosmog",
+    "name": "Cosmog"
+  },
+  "790": {
+    "pokemonId": 790,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "cosmoem",
+    "name": "Cosmoem"
+  },
+  "791": {
+    "pokemonId": 791,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "solgaleo",
+    "name": "Solgaleo"
+  },
+  "792": {
+    "pokemonId": 792,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "lunala",
+    "name": "Lunala"
+  },
+  "793": {
+    "pokemonId": 793,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nihilego",
+    "name": "Nihilego"
+  },
+  "794": {
+    "pokemonId": 794,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "buzzwole",
+    "name": "Buzzwole"
+  },
+  "795": {
+    "pokemonId": 795,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pheromosa",
+    "name": "Pheromosa"
+  },
+  "796": {
+    "pokemonId": 796,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "xurkitree",
+    "name": "Xurkitree"
+  },
+  "797": {
+    "pokemonId": 797,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "celesteela",
+    "name": "Celesteela"
+  },
+  "798": {
+    "pokemonId": 798,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kartana",
+    "name": "Kartana"
+  },
+  "799": {
+    "pokemonId": 799,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "guzzlord",
+    "name": "Guzzlord"
+  },
+  "800": {
+    "pokemonId": 800,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "necrozma",
+    "name": "Necrozma"
+  },
+  "801": {
+    "pokemonId": 801,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magearna",
+    "name": "Magearna"
+  },
+  "802": {
+    "pokemonId": 802,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marshadow",
+    "name": "Marshadow"
+  },
+  "803": {
+    "pokemonId": 803,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "poipole",
+    "name": "Poipole"
+  },
+  "804": {
+    "pokemonId": 804,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "naganadel",
+    "name": "Naganadel"
+  },
+  "805": {
+    "pokemonId": 805,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stakataka",
+    "name": "Stakataka"
+  },
+  "806": {
+    "pokemonId": 806,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blacephalon",
+    "name": "Blacephalon"
+  },
+  "807": {
+    "pokemonId": 807,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zeraora",
+    "name": "Zeraora"
+  },
+  "808": {
+    "pokemonId": 808,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meltan",
+    "name": "Meltan"
+  },
+  "809": {
+    "pokemonId": 809,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "melmetal",
+    "name": "Melmetal"
+  },
+  "810": {
+    "pokemonId": 810,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grookey",
+    "name": "Grookey"
+  },
+  "811": {
+    "pokemonId": 811,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "thwackey",
+    "name": "Thwackey"
+  },
+  "812": {
+    "pokemonId": 812,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rillaboom",
+    "name": "Rillaboom"
+  },
+  "813": {
+    "pokemonId": 813,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scorbunny",
+    "name": "Scorbunny"
+  },
+  "814": {
+    "pokemonId": 814,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raboot",
+    "name": "Raboot"
+  },
+  "815": {
+    "pokemonId": 815,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cinderace",
+    "name": "Cinderace"
+  },
+  "816": {
+    "pokemonId": 816,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sobble",
+    "name": "Sobble"
+  },
+  "817": {
+    "pokemonId": 817,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drizzile",
+    "name": "Drizzile"
+  },
+  "818": {
+    "pokemonId": 818,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "inteleon",
+    "name": "Inteleon"
+  },
+  "819": {
+    "pokemonId": 819,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skwovet",
+    "name": "Skwovet"
+  },
+  "820": {
+    "pokemonId": 820,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "greedent",
+    "name": "Greedent"
+  },
+  "821": {
+    "pokemonId": 821,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rookidee",
+    "name": "Rookidee"
+  },
+  "822": {
+    "pokemonId": 822,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corvisquire",
+    "name": "Corvisquire"
+  },
+  "823": {
+    "pokemonId": 823,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corviknight",
+    "name": "Corviknight"
+  },
+  "824": {
+    "pokemonId": 824,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blipbug",
+    "name": "Blipbug"
+  },
+  "825": {
+    "pokemonId": 825,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dottler",
+    "name": "Dottler"
+  },
+  "826": {
+    "pokemonId": 826,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "orbeetle",
+    "name": "Orbeetle"
+  },
+  "827": {
+    "pokemonId": 827,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nickit",
+    "name": "Nickit"
+  },
+  "828": {
+    "pokemonId": 828,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "thievul",
+    "name": "Thievul"
+  },
+  "829": {
+    "pokemonId": 829,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gossifleur",
+    "name": "Gossifleur"
+  },
+  "830": {
+    "pokemonId": 830,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eldegoss",
+    "name": "Eldegoss"
+  },
+  "831": {
+    "pokemonId": 831,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wooloo",
+    "name": "Wooloo"
+  },
+  "832": {
+    "pokemonId": 832,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dubwool",
+    "name": "Dubwool"
+  },
+  "833": {
+    "pokemonId": 833,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chewtle",
+    "name": "Chewtle"
+  },
+  "834": {
+    "pokemonId": 834,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drednaw",
+    "name": "Drednaw"
+  },
+  "835": {
+    "pokemonId": 835,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yamper",
+    "name": "Yamper"
+  },
+  "836": {
+    "pokemonId": 836,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "boltund",
+    "name": "Boltund"
+  },
+  "837": {
+    "pokemonId": 837,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rolycoly",
+    "name": "Rolycoly"
+  },
+  "838": {
+    "pokemonId": 838,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "carkol",
+    "name": "Carkol"
+  },
+  "839": {
+    "pokemonId": 839,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "coalossal",
+    "name": "Coalossal"
+  },
+  "840": {
+    "pokemonId": 840,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "applin",
+    "name": "Applin"
+  },
+  "841": {
+    "pokemonId": 841,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flapple",
+    "name": "Flapple"
+  },
+  "842": {
+    "pokemonId": 842,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "appletun",
+    "name": "Appletun"
+  },
+  "843": {
+    "pokemonId": 843,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "silicobra",
+    "name": "Silicobra"
+  },
+  "844": {
+    "pokemonId": 844,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandaconda",
+    "name": "Sandaconda"
+  },
+  "845": {
+    "pokemonId": 845,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cramorant",
+    "name": "Cramorant"
+  },
+  "846": {
+    "pokemonId": 846,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arrokuda",
+    "name": "Arrokuda"
+  },
+  "847": {
+    "pokemonId": 847,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "barraskewda",
+    "name": "Barraskewda"
+  },
+  "848": {
+    "pokemonId": 848,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxel",
+    "name": "Toxel"
+  },
+  "849": {
+    "pokemonId": 849,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxtricity-amped",
+    "name": "Toxtricity"
+  },
+  "850": {
+    "pokemonId": 850,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sizzlipede",
+    "name": "Sizzlipede"
+  },
+  "851": {
+    "pokemonId": 851,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "centiskorch",
+    "name": "Centiskorch"
+  },
+  "852": {
+    "pokemonId": 852,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clobbopus",
+    "name": "Clobbopus"
+  },
+  "853": {
+    "pokemonId": 853,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grapploct",
+    "name": "Grapploct"
+  },
+  "854": {
+    "pokemonId": 854,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sinistea",
+    "name": "Sinistea"
+  },
+  "855": {
+    "pokemonId": 855,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "polteageist",
+    "name": "Polteageist"
+  },
+  "856": {
+    "pokemonId": 856,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hatenna",
+    "name": "Hatenna"
+  },
+  "857": {
+    "pokemonId": 857,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hattrem",
+    "name": "Hattrem"
+  },
+  "858": {
+    "pokemonId": 858,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hatterene",
+    "name": "Hatterene"
+  },
+  "859": {
+    "pokemonId": 859,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "impidimp",
+    "name": "Impidimp"
+  },
+  "860": {
+    "pokemonId": 860,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "morgrem",
+    "name": "Morgrem"
+  },
+  "861": {
+    "pokemonId": 861,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grimmsnarl",
+    "name": "Grimmsnarl"
+  },
+  "862": {
+    "pokemonId": 862,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "obstagoon",
+    "name": "Obstagoon"
+  },
+  "863": {
+    "pokemonId": 863,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "perrserker",
+    "name": "Perrserker"
+  },
+  "864": {
+    "pokemonId": 864,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cursola",
+    "name": "Cursola"
+  },
+  "865": {
+    "pokemonId": 865,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sirfetchd",
+    "name": "Sirfetch’d"
+  },
+  "866": {
+    "pokemonId": 866,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mr-rime",
+    "name": "Mr. Rime"
+  },
+  "867": {
+    "pokemonId": 867,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "runerigus",
+    "name": "Runerigus"
+  },
+  "868": {
+    "pokemonId": 868,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "milcery",
+    "name": "Milcery"
+  },
+  "869": {
+    "pokemonId": 869,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "alcremie",
+    "name": "Alcremie"
+  },
+  "870": {
+    "pokemonId": 870,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "falinks",
+    "name": "Falinks"
+  },
+  "871": {
+    "pokemonId": 871,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pincurchin",
+    "name": "Pincurchin"
+  },
+  "872": {
+    "pokemonId": 872,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snom",
+    "name": "Snom"
+  },
+  "873": {
+    "pokemonId": 873,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "frosmoth",
+    "name": "Frosmoth"
+  },
+  "874": {
+    "pokemonId": 874,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stonjourner",
+    "name": "Stonjourner"
+  },
+  "875": {
+    "pokemonId": 875,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eiscue-ice",
+    "name": "Eiscue"
+  },
+  "876": {
+    "pokemonId": 876,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "indeedee-male",
+    "name": "Indeedee"
+  },
+  "877": {
+    "pokemonId": 877,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "morpeko-full-belly",
+    "name": "Morpeko"
+  },
+  "878": {
+    "pokemonId": 878,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cufant",
+    "name": "Cufant"
+  },
+  "879": {
+    "pokemonId": 879,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "copperajah",
+    "name": "Copperajah"
+  },
+  "880": {
+    "pokemonId": 880,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dracozolt",
+    "name": "Dracozolt"
+  },
+  "881": {
+    "pokemonId": 881,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arctozolt",
+    "name": "Arctozolt"
+  },
+  "882": {
+    "pokemonId": 882,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dracovish",
+    "name": "Dracovish"
+  },
+  "883": {
+    "pokemonId": 883,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arctovish",
+    "name": "Arctovish"
+  },
+  "884": {
+    "pokemonId": 884,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "duraludon",
+    "name": "Duraludon"
+  },
+  "885": {
+    "pokemonId": 885,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dreepy",
+    "name": "Dreepy"
+  },
+  "886": {
+    "pokemonId": 886,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drakloak",
+    "name": "Drakloak"
+  },
+  "887": {
+    "pokemonId": 887,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dragapult",
+    "name": "Dragapult"
+  },
+  "888": {
+    "pokemonId": 888,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "zacian",
+    "name": "Zacian"
+  },
+  "889": {
+    "pokemonId": 889,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "zamazenta",
+    "name": "Zamazenta"
+  },
+  "890": {
+    "pokemonId": 890,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "eternatus",
+    "name": "Eternatus"
+  },
+  "891": {
+    "pokemonId": 891,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kubfu",
+    "name": "Kubfu"
+  },
+  "892": {
+    "pokemonId": 892,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "urshifu-single-strike",
+    "name": "Urshifu"
+  },
+  "893": {
+    "pokemonId": 893,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zarude",
+    "name": "Zarude"
+  },
+  "894": {
+    "pokemonId": 894,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "regieleki",
+    "name": "Regieleki"
+  },
+  "895": {
+    "pokemonId": 895,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "regidrago",
+    "name": "Regidrago"
+  },
+  "896": {
+    "pokemonId": 896,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glastrier",
+    "name": "Glastrier"
+  },
+  "897": {
+    "pokemonId": 897,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spectrier",
+    "name": "Spectrier"
+  },
+  "898": {
+    "pokemonId": 898,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "calyrex",
+    "name": "Calyrex"
+  },
+  "899": {
+    "pokemonId": 899,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wyrdeer",
+    "name": "Wyrdeer"
+  },
+  "900": {
+    "pokemonId": 900,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kleavor",
+    "name": "Kleavor"
+  },
+  "901": {
+    "pokemonId": 901,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ursaluna",
+    "name": "Ursaluna"
+  },
+  "902": {
+    "pokemonId": 902,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "basculegion-male",
+    "name": "Basculegion"
+  },
+  "903": {
+    "pokemonId": 903,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sneasler",
+    "name": "Sneasler"
+  },
+  "904": {
+    "pokemonId": 904,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "overqwil",
+    "name": "Overqwil"
+  },
+  "905": {
+    "pokemonId": 905,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "enamorus-incarnate",
+    "name": "Enamorus"
+  },
+  "906": {
+    "pokemonId": 906,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sprigatito",
+    "name": "Sprigatito"
+  },
+  "907": {
+    "pokemonId": 907,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "floragato",
+    "name": "Floragato"
+  },
+  "908": {
+    "pokemonId": 908,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowscarada",
+    "name": "Meowscarada"
+  },
+  "909": {
+    "pokemonId": 909,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fuecoco",
+    "name": "Fuecoco"
+  },
+  "910": {
+    "pokemonId": 910,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "crocalor",
+    "name": "Crocalor"
+  },
+  "911": {
+    "pokemonId": 911,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "skeledirge",
+    "name": "Skeledirge"
+  },
+  "912": {
+    "pokemonId": 912,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quaxly",
+    "name": "Quaxly"
+  },
+  "913": {
+    "pokemonId": 913,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quaxwell",
+    "name": "Quaxwell"
+  },
+  "914": {
+    "pokemonId": 914,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "quaquaval",
+    "name": "Quaquaval"
+  },
+  "915": {
+    "pokemonId": 915,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lechonk",
+    "name": "Lechonk"
+  },
+  "916": {
+    "pokemonId": 916,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oinkologne",
+    "name": "Oinkologne"
+  },
+  "917": {
+    "pokemonId": 917,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tarountula",
+    "name": "Tarountula"
+  },
+  "918": {
+    "pokemonId": 918,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "spidops",
+    "name": "Spidops"
+  },
+  "919": {
+    "pokemonId": 919,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nymble",
+    "name": "Nymble"
+  },
+  "920": {
+    "pokemonId": 920,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lokix",
+    "name": "Lokix"
+  },
+  "921": {
+    "pokemonId": 921,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pawmi",
+    "name": "Pawmi"
+  },
+  "922": {
+    "pokemonId": 922,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pawmo",
+    "name": "Pawmo"
+  },
+  "923": {
+    "pokemonId": 923,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pawmot",
+    "name": "Pawmot"
+  },
+  "924": {
+    "pokemonId": 924,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tandemaus",
+    "name": "Tandemaus"
+  },
+  "925": {
+    "pokemonId": 925,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "maushold",
+    "name": "Maushold"
+  },
+  "926": {
+    "pokemonId": 926,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "fidough",
+    "name": "Fidough"
+  },
+  "927": {
+    "pokemonId": 927,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dachsbun",
+    "name": "Dachsbun"
+  },
+  "928": {
+    "pokemonId": 928,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "smoliv",
+    "name": "Smoliv"
+  },
+  "929": {
+    "pokemonId": 929,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dolliv",
+    "name": "Dolliv"
+  },
+  "930": {
+    "pokemonId": 930,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arboliva",
+    "name": "Arboliva"
+  },
+  "931": {
+    "pokemonId": 931,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "squawkabilly",
+    "name": "Squawkabilly"
+  },
+  "932": {
+    "pokemonId": 932,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "nacli",
+    "name": "Nacli"
+  },
+  "933": {
+    "pokemonId": 933,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "naclstack",
+    "name": "Naclstack"
+  },
+  "934": {
+    "pokemonId": 934,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "garganacl",
+    "name": "Garganacl"
+  },
+  "935": {
+    "pokemonId": 935,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charcadet",
+    "name": "Charcadet"
+  },
+  "936": {
+    "pokemonId": 936,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "armarouge",
+    "name": "Armarouge"
+  },
+  "937": {
+    "pokemonId": 937,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ceruledge",
+    "name": "Ceruledge"
+  },
+  "938": {
+    "pokemonId": 938,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tadbulb",
+    "name": "Tadbulb"
+  },
+  "939": {
+    "pokemonId": 939,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bellibolt",
+    "name": "Bellibolt"
+  },
+  "940": {
+    "pokemonId": 940,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wattrel",
+    "name": "Wattrel"
+  },
+  "941": {
+    "pokemonId": 941,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kilowattrel",
+    "name": "Kilowattrel"
+  },
+  "942": {
+    "pokemonId": 942,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "maschiff",
+    "name": "Maschiff"
+  },
+  "943": {
+    "pokemonId": 943,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mabosstiff",
+    "name": "Mabosstiff"
+  },
+  "944": {
+    "pokemonId": 944,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shroodle",
+    "name": "Shroodle"
+  },
+  "945": {
+    "pokemonId": 945,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grafaiai",
+    "name": "Grafaiai"
+  },
+  "946": {
+    "pokemonId": 946,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bramblin",
+    "name": "Bramblin"
+  },
+  "947": {
+    "pokemonId": 947,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "brambleghast",
+    "name": "Brambleghast"
+  },
+  "948": {
+    "pokemonId": 948,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toedscool",
+    "name": "Toedscool"
+  },
+  "949": {
+    "pokemonId": 949,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toedscruel",
+    "name": "Toedscruel"
+  },
+  "950": {
+    "pokemonId": 950,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "klawf",
+    "name": "Klawf"
+  },
+  "951": {
+    "pokemonId": 951,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "capsakid",
+    "name": "Capsakid"
+  },
+  "952": {
+    "pokemonId": 952,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scovillain",
+    "name": "Scovillain"
+  },
+  "953": {
+    "pokemonId": 953,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rellor",
+    "name": "Rellor"
+  },
+  "954": {
+    "pokemonId": 954,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rabsca",
+    "name": "Rabsca"
+  },
+  "955": {
+    "pokemonId": 955,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flittle",
+    "name": "Flittle"
+  },
+  "956": {
+    "pokemonId": 956,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "espathra",
+    "name": "Espathra"
+  },
+  "957": {
+    "pokemonId": 957,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tinkatink",
+    "name": "Tinkatink"
+  },
+  "958": {
+    "pokemonId": 958,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tinkatuff",
+    "name": "Tinkatuff"
+  },
+  "959": {
+    "pokemonId": 959,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tinkaton",
+    "name": "Tinkaton"
+  },
+  "960": {
+    "pokemonId": 960,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wiglett",
+    "name": "Wiglett"
+  },
+  "961": {
+    "pokemonId": 961,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wugtrio",
+    "name": "Wugtrio"
+  },
+  "962": {
+    "pokemonId": 962,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "bombirdier",
+    "name": "Bombirdier"
+  },
+  "963": {
+    "pokemonId": 963,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "finizen",
+    "name": "Finizen"
+  },
+  "964": {
+    "pokemonId": 964,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "palafin",
+    "name": "Palafin"
+  },
+  "965": {
+    "pokemonId": 965,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "varoom",
+    "name": "Varoom"
+  },
+  "966": {
+    "pokemonId": 966,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "revavroom",
+    "name": "Revavroom"
+  },
+  "967": {
+    "pokemonId": 967,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cyclizar",
+    "name": "Cyclizar"
+  },
+  "968": {
+    "pokemonId": 968,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "orthworm",
+    "name": "Orthworm"
+  },
+  "969": {
+    "pokemonId": 969,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glimmet",
+    "name": "Glimmet"
+  },
+  "970": {
+    "pokemonId": 970,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glimmora",
+    "name": "Glimmora"
+  },
+  "971": {
+    "pokemonId": 971,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "greavard",
+    "name": "Greavard"
+  },
+  "972": {
+    "pokemonId": 972,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "houndstone",
+    "name": "Houndstone"
+  },
+  "973": {
+    "pokemonId": 973,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flamigo",
+    "name": "Flamigo"
+  },
+  "974": {
+    "pokemonId": 974,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cetoddle",
+    "name": "Cetoddle"
+  },
+  "975": {
+    "pokemonId": 975,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cetitan",
+    "name": "Cetitan"
+  },
+  "976": {
+    "pokemonId": 976,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "veluza",
+    "name": "Veluza"
+  },
+  "977": {
+    "pokemonId": 977,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dondozo",
+    "name": "Dondozo"
+  },
+  "978": {
+    "pokemonId": 978,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tatsugiri",
+    "name": "Tatsugiri"
+  },
+  "979": {
+    "pokemonId": 979,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "annihilape",
+    "name": "Annihilape"
+  },
+  "980": {
+    "pokemonId": 980,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "clodsire",
+    "name": "Clodsire"
+  },
+  "981": {
+    "pokemonId": 981,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "farigiraf",
+    "name": "Farigiraf"
+  },
+  "982": {
+    "pokemonId": 982,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dudunsparce",
+    "name": "Dudunsparce"
+  },
+  "983": {
+    "pokemonId": 983,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kingambit",
+    "name": "Kingambit"
+  },
+  "984": {
+    "pokemonId": 984,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "great-tusk",
+    "name": "Great Tusk"
+  },
+  "985": {
+    "pokemonId": 985,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scream-tail",
+    "name": "Scream Tail"
+  },
+  "986": {
+    "pokemonId": 986,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "brute-bonnet",
+    "name": "Brute Bonnet"
+  },
+  "987": {
+    "pokemonId": 987,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flutter-mane",
+    "name": "Flutter Mane"
+  },
+  "988": {
+    "pokemonId": 988,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slither-wing",
+    "name": "Slither Wing"
+  },
+  "989": {
+    "pokemonId": 989,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandy-shocks",
+    "name": "Sandy Shocks"
+  },
+  "990": {
+    "pokemonId": 990,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-treads",
+    "name": "Iron Treads"
+  },
+  "991": {
+    "pokemonId": 991,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-bundle",
+    "name": "Iron Bundle"
+  },
+  "992": {
+    "pokemonId": 992,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-hands",
+    "name": "Iron Hands"
+  },
+  "993": {
+    "pokemonId": 993,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-jugulis",
+    "name": "Iron Jugulis"
+  },
+  "994": {
+    "pokemonId": 994,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-moth",
+    "name": "Iron Moth"
+  },
+  "995": {
+    "pokemonId": 995,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-thorns",
+    "name": "Iron Thorns"
+  },
+  "996": {
+    "pokemonId": 996,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "frigibax",
+    "name": "Frigibax"
+  },
+  "997": {
+    "pokemonId": 997,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arctibax",
+    "name": "Arctibax"
+  },
+  "998": {
+    "pokemonId": 998,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "baxcalibur",
+    "name": "Baxcalibur"
+  },
+  "999": {
+    "pokemonId": 999,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gimmighoul",
+    "name": "Gimmighoul"
+  },
+  "1000": {
+    "pokemonId": 1000,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gholdengo",
+    "name": "Gholdengo"
+  },
+  "1001": {
+    "pokemonId": 1001,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wo-chien",
+    "name": "Wo-Chien"
+  },
+  "1002": {
+    "pokemonId": 1002,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chien-pao",
+    "name": "Chien-Pao"
+  },
+  "1003": {
+    "pokemonId": 1003,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ting-lu",
+    "name": "Ting-Lu"
+  },
+  "1004": {
+    "pokemonId": 1004,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "chi-yu",
+    "name": "Chi-Yu"
+  },
+  "1005": {
+    "pokemonId": 1005,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "roaring-moon",
+    "name": "Roaring Moon"
+  },
+  "1006": {
+    "pokemonId": 1006,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "iron-valiant",
+    "name": "Iron Valiant"
+  },
+  "1007": {
+    "pokemonId": 1007,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koraidon",
+    "name": "Koraidon"
+  },
+  "1008": {
+    "pokemonId": 1008,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miraidon",
+    "name": "Miraidon"
+  },
+  "10001": {
+    "pokemonId": 10001,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "deoxys-attack",
+    "name": "Deoxys"
+  },
+  "10002": {
+    "pokemonId": 10002,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "deoxys-defense",
+    "name": "Deoxys"
+  },
+  "10003": {
+    "pokemonId": 10003,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "deoxys-speed",
+    "name": "Deoxys"
+  },
+  "10004": {
+    "pokemonId": 10004,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wormadam-sandy",
+    "name": "Wormadam"
+  },
+  "10005": {
+    "pokemonId": 10005,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wormadam-trash",
+    "name": "Wormadam"
+  },
+  "10006": {
+    "pokemonId": 10006,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "shaymin-sky",
+    "name": "Shaymin"
+  },
+  "10007": {
+    "pokemonId": 10007,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "giratina-origin",
+    "name": "Giratina"
+  },
+  "10008": {
+    "pokemonId": 10008,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom-heat",
+    "name": "Rotom"
+  },
+  "10009": {
+    "pokemonId": 10009,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom-wash",
+    "name": "Rotom"
+  },
+  "10010": {
+    "pokemonId": 10010,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom-frost",
+    "name": "Rotom"
+  },
+  "10011": {
+    "pokemonId": 10011,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom-fan",
+    "name": "Rotom"
+  },
+  "10012": {
+    "pokemonId": 10012,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rotom-mow",
+    "name": "Rotom"
+  },
+  "10013": {
+    "pokemonId": 10013,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "castform-sunny",
+    "name": "Castform"
+  },
+  "10014": {
+    "pokemonId": 10014,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "castform-rainy",
+    "name": "Castform"
+  },
+  "10015": {
+    "pokemonId": 10015,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "castform-snowy",
+    "name": "Castform"
+  },
+  "10016": {
+    "pokemonId": 10016,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "basculin-blue-striped",
+    "name": "Basculin"
+  },
+  "10017": {
+    "pokemonId": 10017,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darmanitan-zen",
+    "name": "Darmanitan"
+  },
+  "10018": {
+    "pokemonId": 10018,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "meloetta-pirouette",
+    "name": "Meloetta"
+  },
+  "10019": {
+    "pokemonId": 10019,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "tornadus-therian",
+    "name": "Tornadus"
+  },
+  "10020": {
+    "pokemonId": 10020,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "thundurus-therian",
+    "name": "Thundurus"
+  },
+  "10021": {
+    "pokemonId": 10021,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "landorus-therian",
+    "name": "Landorus"
+  },
+  "10022": {
+    "pokemonId": 10022,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "kyurem-black",
+    "name": "Kyurem"
+  },
+  "10023": {
+    "pokemonId": 10023,
+    "isLegendary": true,
+    "isMythical": false,
+    "apiName": "kyurem-white",
+    "name": "Kyurem"
+  },
+  "10024": {
+    "pokemonId": 10024,
+    "isLegendary": false,
+    "isMythical": true,
+    "apiName": "keldeo-resolute",
+    "name": "Keldeo"
+  },
+  "10025": {
+    "pokemonId": 10025,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowstic-female",
+    "name": "Meowstic"
+  },
+  "10026": {
+    "pokemonId": 10026,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aegislash-blade",
+    "name": "Aegislash"
+  },
+  "10027": {
+    "pokemonId": 10027,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pumpkaboo-small",
+    "name": "Pumpkaboo"
+  },
+  "10028": {
+    "pokemonId": 10028,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pumpkaboo-large",
+    "name": "Pumpkaboo"
+  },
+  "10029": {
+    "pokemonId": 10029,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pumpkaboo-super",
+    "name": "Pumpkaboo"
+  },
+  "10030": {
+    "pokemonId": 10030,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gourgeist-small",
+    "name": "Gourgeist"
+  },
+  "10031": {
+    "pokemonId": 10031,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gourgeist-large",
+    "name": "Gourgeist"
+  },
+  "10032": {
+    "pokemonId": 10032,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gourgeist-super",
+    "name": "Gourgeist"
+  },
+  "10033": {
+    "pokemonId": 10033,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venusaur-mega",
+    "name": "Venusaur"
+  },
+  "10034": {
+    "pokemonId": 10034,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charizard-mega-x",
+    "name": "Charizard"
+  },
+  "10035": {
+    "pokemonId": 10035,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charizard-mega-y",
+    "name": "Charizard"
+  },
+  "10036": {
+    "pokemonId": 10036,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blastoise-mega",
+    "name": "Blastoise"
+  },
+  "10037": {
+    "pokemonId": 10037,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "alakazam-mega",
+    "name": "Alakazam"
+  },
+  "10038": {
+    "pokemonId": 10038,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gengar-mega",
+    "name": "Gengar"
+  },
+  "10039": {
+    "pokemonId": 10039,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kangaskhan-mega",
+    "name": "Kangaskhan"
+  },
+  "10040": {
+    "pokemonId": 10040,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pinsir-mega",
+    "name": "Pinsir"
+  },
+  "10041": {
+    "pokemonId": 10041,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gyarados-mega",
+    "name": "Gyarados"
+  },
+  "10042": {
+    "pokemonId": 10042,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aerodactyl-mega",
+    "name": "Aerodactyl"
+  },
+  "10043": {
+    "pokemonId": 10043,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mewtwo-mega-x",
+    "name": "Mewtwo"
+  },
+  "10044": {
+    "pokemonId": 10044,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mewtwo-mega-y",
+    "name": "Mewtwo"
+  },
+  "10045": {
+    "pokemonId": 10045,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ampharos-mega",
+    "name": "Ampharos"
+  },
+  "10046": {
+    "pokemonId": 10046,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "scizor-mega",
+    "name": "Scizor"
+  },
+  "10047": {
+    "pokemonId": 10047,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "heracross-mega",
+    "name": "Heracross"
+  },
+  "10048": {
+    "pokemonId": 10048,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "houndoom-mega",
+    "name": "Houndoom"
+  },
+  "10049": {
+    "pokemonId": 10049,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tyranitar-mega",
+    "name": "Tyranitar"
+  },
+  "10050": {
+    "pokemonId": 10050,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blaziken-mega",
+    "name": "Blaziken"
+  },
+  "10051": {
+    "pokemonId": 10051,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gardevoir-mega",
+    "name": "Gardevoir"
+  },
+  "10052": {
+    "pokemonId": 10052,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mawile-mega",
+    "name": "Mawile"
+  },
+  "10053": {
+    "pokemonId": 10053,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "aggron-mega",
+    "name": "Aggron"
+  },
+  "10054": {
+    "pokemonId": 10054,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "medicham-mega",
+    "name": "Medicham"
+  },
+  "10055": {
+    "pokemonId": 10055,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "manectric-mega",
+    "name": "Manectric"
+  },
+  "10056": {
+    "pokemonId": 10056,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "banette-mega",
+    "name": "Banette"
+  },
+  "10057": {
+    "pokemonId": 10057,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "absol-mega",
+    "name": "Absol"
+  },
+  "10058": {
+    "pokemonId": 10058,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "garchomp-mega",
+    "name": "Garchomp"
+  },
+  "10059": {
+    "pokemonId": 10059,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lucario-mega",
+    "name": "Lucario"
+  },
+  "10060": {
+    "pokemonId": 10060,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "abomasnow-mega",
+    "name": "Abomasnow"
+  },
+  "10061": {
+    "pokemonId": 10061,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "floette-eternal",
+    "name": "Floette"
+  },
+  "10062": {
+    "pokemonId": 10062,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "latias-mega",
+    "name": "Latias"
+  },
+  "10063": {
+    "pokemonId": 10063,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "latios-mega",
+    "name": "Latios"
+  },
+  "10064": {
+    "pokemonId": 10064,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "swampert-mega",
+    "name": "Swampert"
+  },
+  "10065": {
+    "pokemonId": 10065,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sceptile-mega",
+    "name": "Sceptile"
+  },
+  "10066": {
+    "pokemonId": 10066,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sableye-mega",
+    "name": "Sableye"
+  },
+  "10067": {
+    "pokemonId": 10067,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "altaria-mega",
+    "name": "Altaria"
+  },
+  "10068": {
+    "pokemonId": 10068,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gallade-mega",
+    "name": "Gallade"
+  },
+  "10069": {
+    "pokemonId": 10069,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "audino-mega",
+    "name": "Audino"
+  },
+  "10070": {
+    "pokemonId": 10070,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sharpedo-mega",
+    "name": "Sharpedo"
+  },
+  "10071": {
+    "pokemonId": 10071,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowbro-mega",
+    "name": "Slowbro"
+  },
+  "10072": {
+    "pokemonId": 10072,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "steelix-mega",
+    "name": "Steelix"
+  },
+  "10073": {
+    "pokemonId": 10073,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pidgeot-mega",
+    "name": "Pidgeot"
+  },
+  "10074": {
+    "pokemonId": 10074,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "glalie-mega",
+    "name": "Glalie"
+  },
+  "10075": {
+    "pokemonId": 10075,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "diancie-mega",
+    "name": "Diancie"
+  },
+  "10076": {
+    "pokemonId": 10076,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "metagross-mega",
+    "name": "Metagross"
+  },
+  "10077": {
+    "pokemonId": 10077,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kyogre-primal",
+    "name": "Kyogre"
+  },
+  "10078": {
+    "pokemonId": 10078,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "groudon-primal",
+    "name": "Groudon"
+  },
+  "10079": {
+    "pokemonId": 10079,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rayquaza-mega",
+    "name": "Rayquaza"
+  },
+  "10080": {
+    "pokemonId": 10080,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-rock-star",
+    "name": "Pikachu"
+  },
+  "10081": {
+    "pokemonId": 10081,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-belle",
+    "name": "Pikachu"
+  },
+  "10082": {
+    "pokemonId": 10082,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-pop-star",
+    "name": "Pikachu"
+  },
+  "10083": {
+    "pokemonId": 10083,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-phd",
+    "name": "Pikachu"
+  },
+  "10084": {
+    "pokemonId": 10084,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-libre",
+    "name": "Pikachu"
+  },
+  "10085": {
+    "pokemonId": 10085,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-cosplay",
+    "name": "Pikachu"
+  },
+  "10086": {
+    "pokemonId": 10086,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hoopa-unbound",
+    "name": "Hoopa"
+  },
+  "10087": {
+    "pokemonId": 10087,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "camerupt-mega",
+    "name": "Camerupt"
+  },
+  "10088": {
+    "pokemonId": 10088,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lopunny-mega",
+    "name": "Lopunny"
+  },
+  "10089": {
+    "pokemonId": 10089,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "salamence-mega",
+    "name": "Salamence"
+  },
+  "10090": {
+    "pokemonId": 10090,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "beedrill-mega",
+    "name": "Beedrill"
+  },
+  "10091": {
+    "pokemonId": 10091,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rattata-alola",
+    "name": "Rattata"
+  },
+  "10092": {
+    "pokemonId": 10092,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raticate-alola",
+    "name": "Raticate"
+  },
+  "10093": {
+    "pokemonId": 10093,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raticate-totem-alola",
+    "name": "Raticate"
+  },
+  "10094": {
+    "pokemonId": 10094,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-original-cap",
+    "name": "Pikachu"
+  },
+  "10095": {
+    "pokemonId": 10095,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-hoenn-cap",
+    "name": "Pikachu"
+  },
+  "10096": {
+    "pokemonId": 10096,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-sinnoh-cap",
+    "name": "Pikachu"
+  },
+  "10097": {
+    "pokemonId": 10097,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-unova-cap",
+    "name": "Pikachu"
+  },
+  "10098": {
+    "pokemonId": 10098,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-kalos-cap",
+    "name": "Pikachu"
+  },
+  "10099": {
+    "pokemonId": 10099,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-alola-cap",
+    "name": "Pikachu"
+  },
+  "10100": {
+    "pokemonId": 10100,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "raichu-alola",
+    "name": "Raichu"
+  },
+  "10101": {
+    "pokemonId": 10101,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandshrew-alola",
+    "name": "Sandshrew"
+  },
+  "10102": {
+    "pokemonId": 10102,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandslash-alola",
+    "name": "Sandslash"
+  },
+  "10103": {
+    "pokemonId": 10103,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vulpix-alola",
+    "name": "Vulpix"
+  },
+  "10104": {
+    "pokemonId": 10104,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ninetales-alola",
+    "name": "Ninetales"
+  },
+  "10105": {
+    "pokemonId": 10105,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "diglett-alola",
+    "name": "Diglett"
+  },
+  "10106": {
+    "pokemonId": 10106,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dugtrio-alola",
+    "name": "Dugtrio"
+  },
+  "10107": {
+    "pokemonId": 10107,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowth-alola",
+    "name": "Meowth"
+  },
+  "10108": {
+    "pokemonId": 10108,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "persian-alola",
+    "name": "Persian"
+  },
+  "10109": {
+    "pokemonId": 10109,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "geodude-alola",
+    "name": "Geodude"
+  },
+  "10110": {
+    "pokemonId": 10110,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "graveler-alola",
+    "name": "Graveler"
+  },
+  "10111": {
+    "pokemonId": 10111,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "golem-alola",
+    "name": "Golem"
+  },
+  "10112": {
+    "pokemonId": 10112,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grimer-alola",
+    "name": "Grimer"
+  },
+  "10113": {
+    "pokemonId": 10113,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "muk-alola",
+    "name": "Muk"
+  },
+  "10114": {
+    "pokemonId": 10114,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "exeggutor-alola",
+    "name": "Exeggutor"
+  },
+  "10115": {
+    "pokemonId": 10115,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marowak-alola",
+    "name": "Marowak"
+  },
+  "10116": {
+    "pokemonId": 10116,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "greninja-battle-bond",
+    "name": "Greninja"
+  },
+  "10117": {
+    "pokemonId": 10117,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "greninja-ash",
+    "name": "Greninja"
+  },
+  "10118": {
+    "pokemonId": 10118,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zygarde-10-power-construct",
+    "name": "Zygarde"
+  },
+  "10119": {
+    "pokemonId": 10119,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zygarde-50-power-construct",
+    "name": "Zygarde"
+  },
+  "10120": {
+    "pokemonId": 10120,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zygarde-complete",
+    "name": "Zygarde"
+  },
+  "10121": {
+    "pokemonId": 10121,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gumshoos-totem",
+    "name": "Gumshoos"
+  },
+  "10122": {
+    "pokemonId": 10122,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "vikavolt-totem",
+    "name": "Vikavolt"
+  },
+  "10123": {
+    "pokemonId": 10123,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oricorio-pom-pom",
+    "name": "Oricorio"
+  },
+  "10124": {
+    "pokemonId": 10124,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oricorio-pau",
+    "name": "Oricorio"
+  },
+  "10125": {
+    "pokemonId": 10125,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oricorio-sensu",
+    "name": "Oricorio"
+  },
+  "10126": {
+    "pokemonId": 10126,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lycanroc-midnight",
+    "name": "Lycanroc"
+  },
+  "10127": {
+    "pokemonId": 10127,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wishiwashi-school",
+    "name": "Wishiwashi"
+  },
+  "10128": {
+    "pokemonId": 10128,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lurantis-totem",
+    "name": "Lurantis"
+  },
+  "10129": {
+    "pokemonId": 10129,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "salazzle-totem",
+    "name": "Salazzle"
+  },
+  "10130": {
+    "pokemonId": 10130,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-orange-meteor",
+    "name": "Minior"
+  },
+  "10131": {
+    "pokemonId": 10131,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-yellow-meteor",
+    "name": "Minior"
+  },
+  "10132": {
+    "pokemonId": 10132,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-green-meteor",
+    "name": "Minior"
+  },
+  "10133": {
+    "pokemonId": 10133,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-blue-meteor",
+    "name": "Minior"
+  },
+  "10134": {
+    "pokemonId": 10134,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-indigo-meteor",
+    "name": "Minior"
+  },
+  "10135": {
+    "pokemonId": 10135,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-violet-meteor",
+    "name": "Minior"
+  },
+  "10136": {
+    "pokemonId": 10136,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-red",
+    "name": "Minior"
+  },
+  "10137": {
+    "pokemonId": 10137,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-orange",
+    "name": "Minior"
+  },
+  "10138": {
+    "pokemonId": 10138,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-yellow",
+    "name": "Minior"
+  },
+  "10139": {
+    "pokemonId": 10139,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-green",
+    "name": "Minior"
+  },
+  "10140": {
+    "pokemonId": 10140,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-blue",
+    "name": "Minior"
+  },
+  "10141": {
+    "pokemonId": 10141,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-indigo",
+    "name": "Minior"
+  },
+  "10142": {
+    "pokemonId": 10142,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "minior-violet",
+    "name": "Minior"
+  },
+  "10143": {
+    "pokemonId": 10143,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mimikyu-busted",
+    "name": "Mimikyu"
+  },
+  "10144": {
+    "pokemonId": 10144,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mimikyu-totem-disguised",
+    "name": "Mimikyu"
+  },
+  "10145": {
+    "pokemonId": 10145,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mimikyu-totem-busted",
+    "name": "Mimikyu"
+  },
+  "10146": {
+    "pokemonId": 10146,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kommo-o-totem",
+    "name": "Kommo-o"
+  },
+  "10147": {
+    "pokemonId": 10147,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "magearna-original",
+    "name": "Magearna"
+  },
+  "10148": {
+    "pokemonId": 10148,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-partner-cap",
+    "name": "Pikachu"
+  },
+  "10149": {
+    "pokemonId": 10149,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "marowak-totem",
+    "name": "Marowak"
+  },
+  "10150": {
+    "pokemonId": 10150,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ribombee-totem",
+    "name": "Ribombee"
+  },
+  "10151": {
+    "pokemonId": 10151,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rockruff-own-tempo",
+    "name": "Rockruff"
+  },
+  "10152": {
+    "pokemonId": 10152,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lycanroc-dusk",
+    "name": "Lycanroc"
+  },
+  "10153": {
+    "pokemonId": 10153,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "araquanid-totem",
+    "name": "Araquanid"
+  },
+  "10154": {
+    "pokemonId": 10154,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "togedemaru-totem",
+    "name": "Togedemaru"
+  },
+  "10155": {
+    "pokemonId": 10155,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "necrozma-dusk",
+    "name": "Necrozma"
+  },
+  "10156": {
+    "pokemonId": 10156,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "necrozma-dawn",
+    "name": "Necrozma"
+  },
+  "10157": {
+    "pokemonId": 10157,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "necrozma-ultra",
+    "name": "Necrozma"
+  },
+  "10158": {
+    "pokemonId": 10158,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-starter",
+    "name": "Pikachu"
+  },
+  "10159": {
+    "pokemonId": 10159,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eevee-starter",
+    "name": "Eevee"
+  },
+  "10160": {
+    "pokemonId": 10160,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-world-cap",
+    "name": "Pikachu"
+  },
+  "10161": {
+    "pokemonId": 10161,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowth-galar",
+    "name": "Meowth"
+  },
+  "10162": {
+    "pokemonId": 10162,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "ponyta-galar",
+    "name": "Ponyta"
+  },
+  "10163": {
+    "pokemonId": 10163,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rapidash-galar",
+    "name": "Rapidash"
+  },
+  "10164": {
+    "pokemonId": 10164,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowpoke-galar",
+    "name": "Slowpoke"
+  },
+  "10165": {
+    "pokemonId": 10165,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowbro-galar",
+    "name": "Slowbro"
+  },
+  "10166": {
+    "pokemonId": 10166,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "farfetchd-galar",
+    "name": "Farfetch’d"
+  },
+  "10167": {
+    "pokemonId": 10167,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "weezing-galar",
+    "name": "Weezing"
+  },
+  "10168": {
+    "pokemonId": 10168,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "mr-mime-galar",
+    "name": "Mr. Mime"
+  },
+  "10169": {
+    "pokemonId": 10169,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "articuno-galar",
+    "name": "Articuno"
+  },
+  "10170": {
+    "pokemonId": 10170,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zapdos-galar",
+    "name": "Zapdos"
+  },
+  "10171": {
+    "pokemonId": 10171,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "moltres-galar",
+    "name": "Moltres"
+  },
+  "10172": {
+    "pokemonId": 10172,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "slowking-galar",
+    "name": "Slowking"
+  },
+  "10173": {
+    "pokemonId": 10173,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corsola-galar",
+    "name": "Corsola"
+  },
+  "10174": {
+    "pokemonId": 10174,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zigzagoon-galar",
+    "name": "Zigzagoon"
+  },
+  "10175": {
+    "pokemonId": 10175,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "linoone-galar",
+    "name": "Linoone"
+  },
+  "10176": {
+    "pokemonId": 10176,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darumaka-galar",
+    "name": "Darumaka"
+  },
+  "10177": {
+    "pokemonId": 10177,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darmanitan-galar-standard",
+    "name": "Darmanitan"
+  },
+  "10178": {
+    "pokemonId": 10178,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "darmanitan-galar-zen",
+    "name": "Darmanitan"
+  },
+  "10179": {
+    "pokemonId": 10179,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "yamask-galar",
+    "name": "Yamask"
+  },
+  "10180": {
+    "pokemonId": 10180,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "stunfisk-galar",
+    "name": "Stunfisk"
+  },
+  "10181": {
+    "pokemonId": 10181,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zygarde-10",
+    "name": "Zygarde"
+  },
+  "10182": {
+    "pokemonId": 10182,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cramorant-gulping",
+    "name": "Cramorant"
+  },
+  "10183": {
+    "pokemonId": 10183,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cramorant-gorging",
+    "name": "Cramorant"
+  },
+  "10184": {
+    "pokemonId": 10184,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxtricity-low-key",
+    "name": "Toxtricity"
+  },
+  "10185": {
+    "pokemonId": 10185,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eiscue-noice",
+    "name": "Eiscue"
+  },
+  "10186": {
+    "pokemonId": 10186,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "indeedee-female",
+    "name": "Indeedee"
+  },
+  "10187": {
+    "pokemonId": 10187,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "morpeko-hangry",
+    "name": "Morpeko"
+  },
+  "10188": {
+    "pokemonId": 10188,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zacian-crowned",
+    "name": "Zacian"
+  },
+  "10189": {
+    "pokemonId": 10189,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zamazenta-crowned",
+    "name": "Zamazenta"
+  },
+  "10190": {
+    "pokemonId": 10190,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eternatus-eternamax",
+    "name": "Eternatus"
+  },
+  "10191": {
+    "pokemonId": 10191,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "urshifu-rapid-strike",
+    "name": "Urshifu"
+  },
+  "10192": {
+    "pokemonId": 10192,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zarude-dada",
+    "name": "Zarude"
+  },
+  "10193": {
+    "pokemonId": 10193,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "calyrex-ice",
+    "name": "Calyrex"
+  },
+  "10194": {
+    "pokemonId": 10194,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "calyrex-shadow",
+    "name": "Calyrex"
+  },
+  "10195": {
+    "pokemonId": 10195,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "venusaur-gmax",
+    "name": "Venusaur"
+  },
+  "10196": {
+    "pokemonId": 10196,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "charizard-gmax",
+    "name": "Charizard"
+  },
+  "10197": {
+    "pokemonId": 10197,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "blastoise-gmax",
+    "name": "Blastoise"
+  },
+  "10198": {
+    "pokemonId": 10198,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "butterfree-gmax",
+    "name": "Butterfree"
+  },
+  "10199": {
+    "pokemonId": 10199,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "pikachu-gmax",
+    "name": "Pikachu"
+  },
+  "10200": {
+    "pokemonId": 10200,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "meowth-gmax",
+    "name": "Meowth"
+  },
+  "10201": {
+    "pokemonId": 10201,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "machamp-gmax",
+    "name": "Machamp"
+  },
+  "10202": {
+    "pokemonId": 10202,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gengar-gmax",
+    "name": "Gengar"
+  },
+  "10203": {
+    "pokemonId": 10203,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "kingler-gmax",
+    "name": "Kingler"
+  },
+  "10204": {
+    "pokemonId": 10204,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lapras-gmax",
+    "name": "Lapras"
+  },
+  "10205": {
+    "pokemonId": 10205,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "eevee-gmax",
+    "name": "Eevee"
+  },
+  "10206": {
+    "pokemonId": 10206,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "snorlax-gmax",
+    "name": "Snorlax"
+  },
+  "10207": {
+    "pokemonId": 10207,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "garbodor-gmax",
+    "name": "Garbodor"
+  },
+  "10208": {
+    "pokemonId": 10208,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "melmetal-gmax",
+    "name": "Melmetal"
+  },
+  "10209": {
+    "pokemonId": 10209,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "rillaboom-gmax",
+    "name": "Rillaboom"
+  },
+  "10210": {
+    "pokemonId": 10210,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "cinderace-gmax",
+    "name": "Cinderace"
+  },
+  "10211": {
+    "pokemonId": 10211,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "inteleon-gmax",
+    "name": "Inteleon"
+  },
+  "10212": {
+    "pokemonId": 10212,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "corviknight-gmax",
+    "name": "Corviknight"
+  },
+  "10213": {
+    "pokemonId": 10213,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "orbeetle-gmax",
+    "name": "Orbeetle"
+  },
+  "10214": {
+    "pokemonId": 10214,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "drednaw-gmax",
+    "name": "Drednaw"
+  },
+  "10215": {
+    "pokemonId": 10215,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "coalossal-gmax",
+    "name": "Coalossal"
+  },
+  "10216": {
+    "pokemonId": 10216,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "flapple-gmax",
+    "name": "Flapple"
+  },
+  "10217": {
+    "pokemonId": 10217,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "appletun-gmax",
+    "name": "Appletun"
+  },
+  "10218": {
+    "pokemonId": 10218,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sandaconda-gmax",
+    "name": "Sandaconda"
+  },
+  "10219": {
+    "pokemonId": 10219,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxtricity-amped-gmax",
+    "name": "Toxtricity"
+  },
+  "10220": {
+    "pokemonId": 10220,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "centiskorch-gmax",
+    "name": "Centiskorch"
+  },
+  "10221": {
+    "pokemonId": 10221,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "hatterene-gmax",
+    "name": "Hatterene"
+  },
+  "10222": {
+    "pokemonId": 10222,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "grimmsnarl-gmax",
+    "name": "Grimmsnarl"
+  },
+  "10223": {
+    "pokemonId": 10223,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "alcremie-gmax",
+    "name": "Alcremie"
+  },
+  "10224": {
+    "pokemonId": 10224,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "copperajah-gmax",
+    "name": "Copperajah"
+  },
+  "10225": {
+    "pokemonId": 10225,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "duraludon-gmax",
+    "name": "Duraludon"
+  },
+  "10226": {
+    "pokemonId": 10226,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "urshifu-single-strike-gmax",
+    "name": "Urshifu"
+  },
+  "10227": {
+    "pokemonId": 10227,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "urshifu-rapid-strike-gmax",
+    "name": "Urshifu"
+  },
+  "10228": {
+    "pokemonId": 10228,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "toxtricity-low-key-gmax",
+    "name": "Toxtricity"
+  },
+  "10229": {
+    "pokemonId": 10229,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "growlithe-hisui",
+    "name": "Growlithe"
+  },
+  "10230": {
+    "pokemonId": 10230,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "arcanine-hisui",
+    "name": "Arcanine"
+  },
+  "10231": {
+    "pokemonId": 10231,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "voltorb-hisui",
+    "name": "Voltorb"
+  },
+  "10232": {
+    "pokemonId": 10232,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "electrode-hisui",
+    "name": "Electrode"
+  },
+  "10233": {
+    "pokemonId": 10233,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "typhlosion-hisui",
+    "name": "Typhlosion"
+  },
+  "10234": {
+    "pokemonId": 10234,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "qwilfish-hisui",
+    "name": "Qwilfish"
+  },
+  "10235": {
+    "pokemonId": 10235,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sneasel-hisui",
+    "name": "Sneasel"
+  },
+  "10236": {
+    "pokemonId": 10236,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "samurott-hisui",
+    "name": "Samurott"
+  },
+  "10237": {
+    "pokemonId": 10237,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "lilligant-hisui",
+    "name": "Lilligant"
+  },
+  "10238": {
+    "pokemonId": 10238,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zorua-hisui",
+    "name": "Zorua"
+  },
+  "10239": {
+    "pokemonId": 10239,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "zoroark-hisui",
+    "name": "Zoroark"
+  },
+  "10240": {
+    "pokemonId": 10240,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "braviary-hisui",
+    "name": "Braviary"
+  },
+  "10241": {
+    "pokemonId": 10241,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "sliggoo-hisui",
+    "name": "Sliggoo"
+  },
+  "10242": {
+    "pokemonId": 10242,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "goodra-hisui",
+    "name": "Goodra"
+  },
+  "10243": {
+    "pokemonId": 10243,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "avalugg-hisui",
+    "name": "Avalugg"
+  },
+  "10244": {
+    "pokemonId": 10244,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "decidueye-hisui",
+    "name": "Decidueye"
+  },
+  "10245": {
+    "pokemonId": 10245,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dialga-origin",
+    "name": "Dialga"
+  },
+  "10246": {
+    "pokemonId": 10246,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "palkia-origin",
+    "name": "Palkia"
+  },
+  "10247": {
+    "pokemonId": 10247,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "basculin-white-striped",
+    "name": "Basculin"
+  },
+  "10248": {
+    "pokemonId": 10248,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "basculegion-female",
+    "name": "Basculegion"
+  },
+  "10249": {
+    "pokemonId": 10249,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "enamorus-therian",
+    "name": "Enamorus"
+  },
+  "10250": {
+    "pokemonId": 10250,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tauros-paldea-combat-breed",
+    "name": "Tauros"
+  },
+  "10251": {
+    "pokemonId": 10251,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tauros-paldea-blaze-breed",
+    "name": "Tauros"
+  },
+  "10252": {
+    "pokemonId": 10252,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tauros-paldea-aqua-breed",
+    "name": "Tauros"
+  },
+  "10253": {
+    "pokemonId": 10253,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "wooper-paldea",
+    "name": "Wooper"
+  },
+  "10254": {
+    "pokemonId": 10254,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "oinkologne-female",
+    "name": "Oinkologne"
+  },
+  "10255": {
+    "pokemonId": 10255,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "dudunsparce-three-segment",
+    "name": "Dudunsparce"
+  },
+  "10256": {
+    "pokemonId": 10256,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "palafin-hero",
+    "name": "Palafin"
+  },
+  "10257": {
+    "pokemonId": 10257,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "maushold-family-of-three",
+    "name": "Maushold"
+  },
+  "10258": {
+    "pokemonId": 10258,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tatsugiri-droopy",
+    "name": "Tatsugiri"
+  },
+  "10259": {
+    "pokemonId": 10259,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "tatsugiri-stretchy",
+    "name": "Tatsugiri"
+  },
+  "10260": {
+    "pokemonId": 10260,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "squawkabilly-blue-plumage",
+    "name": "Squawkabilly"
+  },
+  "10261": {
+    "pokemonId": 10261,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "squawkabilly-yellow-plumage",
+    "name": "Squawkabilly"
+  },
+  "10262": {
+    "pokemonId": 10262,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "squawkabilly-white-plumage",
+    "name": "Squawkabilly"
+  },
+  "10263": {
+    "pokemonId": 10263,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "gimmighoul-roaming",
+    "name": "Gimmighoul"
+  },
+  "10264": {
+    "pokemonId": 10264,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koraidon-limited-build",
+    "name": "Koraidon"
+  },
+  "10265": {
+    "pokemonId": 10265,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koraidon-sprinting-build",
+    "name": "Koraidon"
+  },
+  "10266": {
+    "pokemonId": 10266,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koraidon-swimming-build",
+    "name": "Koraidon"
+  },
+  "10267": {
+    "pokemonId": 10267,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "koraidon-gliding-build",
+    "name": "Koraidon"
+  },
+  "10268": {
+    "pokemonId": 10268,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miraidon-low-power-mode",
+    "name": "Miraidon"
+  },
+  "10269": {
+    "pokemonId": 10269,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miraidon-drive-mode",
+    "name": "Miraidon"
+  },
+  "10270": {
+    "pokemonId": 10270,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miraidon-aquatic-mode",
+    "name": "Miraidon"
+  },
+  "10271": {
+    "pokemonId": 10271,
+    "isLegendary": false,
+    "isMythical": false,
+    "apiName": "miraidon-glide-mode",
+    "name": "Miraidon"
+  }
+}
