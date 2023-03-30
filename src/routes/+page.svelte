@@ -207,7 +207,7 @@
 		border-radius: 4px;
 		margin: 5px;
 		padding: 10px;
-		background-image: url('dust_scratches.webp');
+		background-image: url('/dust_scratches.webp');
 	}
 	.teamItem {
 		display: inline-flex;
