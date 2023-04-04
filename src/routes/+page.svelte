@@ -10,7 +10,7 @@
 	import type { EvolutionChain } from '../types/EvolutionChain.type';
 
 	let allowLegendaryAndMythical = true;
-	let selectedVersionIdx: number = -1;
+	let selectedVersionIdx: number = 0;
 	let versionPokemon: number[] = [];
 	let versionTeam: number[] = [];
 	let pokedexes: { [key: string]: Pokedex } = iPokedexes;
@@ -19,7 +19,7 @@
 
 	function selectVersion(e: Event) {
 		let versionIdx = Number((e.target as HTMLSelectElement).value);
-		if (versionIdx >= 0) {
+		if (versionIdx > 0) {
 			selectedVersionIdx = versionIdx;
 			buildTeam();
 		}
@@ -128,14 +128,13 @@
 	</div>
 	<div>
 		<h2>What game are you playing?</h2>
-		<select bind:value={selectedVersionIdx} on:change={selectVersion} class="versionSelector">
-			<option value="-1" selected>- Select A Game -</option>
+		<select bind:value={selectedVersionIdx} on:change={selectVersion} class="iVersionSelector">
 			{#each iVersions as version, i}
 				<option value={i}>{version.name}</option>
 			{/each}
 		</select>
 	</div>
-	{#if selectedVersionIdx >= 0}
+	{#if selectedVersionIdx > 0}
 		<button class="buildTeam" on:click={buildTeam}>Rebuild Team</button>
 		<div>
 			{#each versionTeam as chainId}

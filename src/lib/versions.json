@@ -1,102 +1,471 @@
 [
-  {
-    "name": "Red/Blue",
-    "pokedexIds": [2],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon"]
-  },
-  {
-    "name": "Yellow",
-    "pokedexIds": [2],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon"]
-  },
-  {
-    "name": "Gold/Silver",
-    "pokedexIds": [3],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Crystal",
-    "pokedexIds": [3],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Ruby/Sapphire",
-    "pokedexIds": [4],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Emerald",
-    "pokedexIds": [4],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "FireRed/LeafGreen",
-    "pokedexIds": [2],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Diamond/Pearl",
-    "pokedexIds": [5],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Platinum",
-    "pokedexIds": [6],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "HeartGold/SoulSilver",
-    "pokedexIds": [7],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Black/White",
-    "pokedexIds": [8],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "Black2/White2",
-    "pokedexIds": [9],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark"]
-  },
-  {
-    "name": "X/Y",
-    "pokedexIds": [12, 13, 14],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Omega Ruby/Alpha Sapphire",
-    "pokedexIds": [15],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Sun/Moon",
-    "pokedexIds": [16, 17, 18, 19, 20],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Ultra Sun/Ultra Moon",
-    "pokedexIds": [21, 22, 23, 24, 25],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Lets Go Pikachu/Lets Go Eevee",
-    "pokedexIds": [26],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Sword/Shield",
-    "pokedexIds": [27, 28, 29],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Legends Arceus",
-    "pokedexIds": [30],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  },
-  {
-    "name": "Scarlet/Violet",
-    "pokedexIds": [31],
-    "types": ["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "steel", "dark", "fairy"]
-  }
+	{
+		"name": "- Select A Game -",
+		"pokedexIds": [],
+		"types": []
+	},
+	{
+		"name": "Red/Blue",
+		"pokedexIds": [2],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon"
+		]
+	},
+	{
+		"name": "Yellow",
+		"pokedexIds": [2],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon"
+		]
+	},
+	{
+		"name": "Gold/Silver",
+		"pokedexIds": [3],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Crystal",
+		"pokedexIds": [3],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Ruby/Sapphire",
+		"pokedexIds": [4],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Emerald",
+		"pokedexIds": [4],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "FireRed/LeafGreen",
+		"pokedexIds": [2],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Diamond/Pearl",
+		"pokedexIds": [5],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Platinum",
+		"pokedexIds": [6],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "HeartGold/SoulSilver",
+		"pokedexIds": [7],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Black/White",
+		"pokedexIds": [8],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "Black2/White2",
+		"pokedexIds": [9],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark"
+		]
+	},
+	{
+		"name": "X/Y",
+		"pokedexIds": [12, 13, 14],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Omega Ruby/Alpha Sapphire",
+		"pokedexIds": [15],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Sun/Moon",
+		"pokedexIds": [16, 17, 18, 19, 20],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Ultra Sun/Ultra Moon",
+		"pokedexIds": [21, 22, 23, 24, 25],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Lets Go Pikachu/Lets Go Eevee",
+		"pokedexIds": [26],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Sword/Shield",
+		"pokedexIds": [27, 28, 29],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Legends Arceus",
+		"pokedexIds": [30],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	},
+	{
+		"name": "Scarlet/Violet",
+		"pokedexIds": [31],
+		"types": [
+			"normal",
+			"fighting",
+			"flying",
+			"poison",
+			"ground",
+			"rock",
+			"bug",
+			"ghost",
+			"fire",
+			"water",
+			"grass",
+			"electric",
+			"psychic",
+			"ice",
+			"dragon",
+			"steel",
+			"dark",
+			"fairy"
+		]
+	}
 ]
